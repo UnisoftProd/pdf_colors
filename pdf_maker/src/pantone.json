@@ -1,0 +1,8045 @@
+[
+  {
+    "pantone": "Pantone Process Yellow C",
+    "c": 0,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 100 C",
+    "c": 0,
+    "m": 0,
+    "y": 51,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 101 C",
+    "c": 0,
+    "m": 0,
+    "y": 79,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 102 C",
+    "c": 0,
+    "m": 1,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Pantone Yellow C",
+    "c": 0,
+    "m": 1,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 103 C",
+    "c": 0,
+    "m": 3,
+    "y": 100,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 104 C",
+    "c": 0,
+    "m": 3,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 105 C",
+    "c": 0,
+    "m": 3,
+    "y": 100,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 106 C",
+    "c": 0,
+    "m": 2,
+    "y": 69,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 107 C",
+    "c": 0,
+    "m": 4,
+    "y": 79,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 108 C",
+    "c": 0,
+    "m": 6,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 109 C",
+    "c": 0,
+    "m": 10,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 110 C",
+    "c": 0,
+    "m": 12,
+    "y": 100,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 111 C",
+    "c": 0,
+    "m": 11,
+    "y": 100,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 112 C",
+    "c": 0,
+    "m": 10,
+    "y": 100,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 113 C",
+    "c": 0,
+    "m": 7,
+    "y": 66,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 114 C",
+    "c": 0,
+    "m": 8,
+    "y": 73,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 115 C",
+    "c": 0,
+    "m": 9,
+    "y": 80,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 116 C",
+    "c": 0,
+    "m": 16,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 117 C",
+    "c": 0,
+    "m": 18,
+    "y": 100,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 118 C",
+    "c": 0,
+    "m": 18,
+    "y": 100,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 119 C",
+    "c": 0,
+    "m": 12,
+    "y": 100,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 120 C",
+    "c": 0,
+    "m": 9,
+    "y": 58,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1205 C",
+    "c": 0,
+    "m": 5,
+    "y": 31,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 121 C",
+    "c": 0,
+    "m": 11,
+    "y": 69,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1215 C",
+    "c": 0,
+    "m": 9,
+    "y": 45,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 122 C",
+    "c": 0,
+    "m": 17,
+    "y": 80,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1225 C",
+    "c": 0,
+    "m": 17,
+    "y": 62,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 123 C",
+    "c": 0,
+    "m": 24,
+    "y": 94,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1235 C",
+    "c": 0,
+    "m": 29,
+    "y": 91,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 124 C",
+    "c": 0,
+    "m": 28,
+    "y": 100,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 1245 C",
+    "c": 0,
+    "m": 28,
+    "y": 100,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 125 C",
+    "c": 0,
+    "m": 26,
+    "y": 100,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 1255 C",
+    "c": 0,
+    "m": 27,
+    "y": 100,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 126 C",
+    "c": 0,
+    "m": 25,
+    "y": 100,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 1265 C",
+    "c": 0,
+    "m": 27,
+    "y": 100,
+    "k": 51
+  },
+  {
+    "pantone": "Pantone 127 C",
+    "c": 0,
+    "m": 7,
+    "y": 50,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 128 C",
+    "c": 0,
+    "m": 11,
+    "y": 65,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 129 C",
+    "c": 0,
+    "m": 16,
+    "y": 77,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 130 C",
+    "c": 0,
+    "m": 30,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 131 C",
+    "c": 0,
+    "m": 32,
+    "y": 100,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 132 C",
+    "c": 0,
+    "m": 28,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 133 C",
+    "c": 0,
+    "m": 20,
+    "y": 100,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 134 C",
+    "c": 0,
+    "m": 11,
+    "y": 45,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1345 C",
+    "c": 0,
+    "m": 14,
+    "y": 47,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 135 C",
+    "c": 0,
+    "m": 19,
+    "y": 60,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1355 C",
+    "c": 0,
+    "m": 20,
+    "y": 56,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 136 C",
+    "c": 0,
+    "m": 27,
+    "y": 76,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1365 C",
+    "c": 0,
+    "m": 29,
+    "y": 72,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 137 C",
+    "c": 0,
+    "m": 35,
+    "y": 90,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1375 C",
+    "c": 0,
+    "m": 40,
+    "y": 90,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 138 C",
+    "c": 0,
+    "m": 42,
+    "y": 100,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 1385 C",
+    "c": 0,
+    "m": 44,
+    "y": 100,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 139 C",
+    "c": 0,
+    "m": 37,
+    "y": 100,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 1395 C",
+    "c": 0,
+    "m": 41,
+    "y": 100,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 140 C",
+    "c": 0,
+    "m": 27,
+    "y": 100,
+    "k": 54
+  },
+  {
+    "pantone": "Pantone 1405 C",
+    "c": 0,
+    "m": 36,
+    "y": 100,
+    "k": 63
+  },
+  {
+    "pantone": "Pantone 141 C",
+    "c": 0,
+    "m": 19,
+    "y": 51,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 142 C",
+    "c": 0,
+    "m": 28,
+    "y": 76,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 143 C",
+    "c": 0,
+    "m": 35,
+    "y": 85,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 144 C",
+    "c": 0,
+    "m": 48,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 145 C",
+    "c": 0,
+    "m": 47,
+    "y": 100,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 146 C",
+    "c": 0,
+    "m": 43,
+    "y": 100,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 147 C",
+    "c": 0,
+    "m": 28,
+    "y": 100,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 148 C",
+    "c": 0,
+    "m": 16,
+    "y": 37,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1485 C",
+    "c": 0,
+    "m": 27,
+    "y": 54,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 149 C",
+    "c": 0,
+    "m": 23,
+    "y": 47,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1495 C",
+    "c": 0,
+    "m": 33,
+    "y": 67,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 150 C",
+    "c": 0,
+    "m": 35,
+    "y": 70,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1505 C",
+    "c": 0,
+    "m": 42,
+    "y": 77,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Orange 021 C",
+    "c": 0,
+    "m": 53,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 151 C",
+    "c": 0,
+    "m": 48,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 152 C",
+    "c": 0,
+    "m": 51,
+    "y": 100,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 1525 C",
+    "c": 0,
+    "m": 58,
+    "y": 100,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 153 C",
+    "c": 0,
+    "m": 46,
+    "y": 100,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 1535 C",
+    "c": 0,
+    "m": 53,
+    "y": 100,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 154 C",
+    "c": 0,
+    "m": 46,
+    "y": 100,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 1545 C",
+    "c": 0,
+    "m": 53,
+    "y": 100,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 155 C",
+    "c": 0,
+    "m": 12,
+    "y": 28,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1555 C",
+    "c": 0,
+    "m": 22,
+    "y": 34,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 156 C",
+    "c": 0,
+    "m": 22,
+    "y": 42,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1565 C",
+    "c": 0,
+    "m": 34,
+    "y": 49,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 157 C",
+    "c": 0,
+    "m": 43,
+    "y": 70,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1575 C",
+    "c": 0,
+    "m": 45,
+    "y": 72,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 158 C",
+    "c": 0,
+    "m": 61,
+    "y": 97,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1585 C",
+    "c": 0,
+    "m": 56,
+    "y": 90,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 159 C",
+    "c": 0,
+    "m": 66,
+    "y": 100,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 1595 C",
+    "c": 0,
+    "m": 59,
+    "y": 100,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 160 C",
+    "c": 0,
+    "m": 62,
+    "y": 100,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 1605 C",
+    "c": 0,
+    "m": 56,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 161 C",
+    "c": 0,
+    "m": 52,
+    "y": 100,
+    "k": 64
+  },
+  {
+    "pantone": "Pantone 1615 C",
+    "c": 0,
+    "m": 56,
+    "y": 100,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 162 C",
+    "c": 0,
+    "m": 15,
+    "y": 22,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1625 C",
+    "c": 0,
+    "m": 31,
+    "y": 37,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 163 C",
+    "c": 0,
+    "m": 31,
+    "y": 44,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1635 C",
+    "c": 0,
+    "m": 39,
+    "y": 48,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 164 C",
+    "c": 0,
+    "m": 46,
+    "y": 73,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1645 C",
+    "c": 0,
+    "m": 49,
+    "y": 66,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 165 C",
+    "c": 0,
+    "m": 59,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1655 C",
+    "c": 0,
+    "m": 63,
+    "y": 91,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 166 C",
+    "c": 0,
+    "m": 64,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1665 C",
+    "c": 0,
+    "m": 68,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 167 C",
+    "c": 0,
+    "m": 60,
+    "y": 100,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 1675 C",
+    "c": 0,
+    "m": 67,
+    "y": 100,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 168 C",
+    "c": 0,
+    "m": 57,
+    "y": 100,
+    "k": 59
+  },
+  {
+    "pantone": "Pantone 1685 C",
+    "c": 0,
+    "m": 68,
+    "y": 100,
+    "k": 44
+  },
+  {
+    "pantone": "Pantone 169 C",
+    "c": 0,
+    "m": 20,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 170 C",
+    "c": 0,
+    "m": 40,
+    "y": 44,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 171 C",
+    "c": 0,
+    "m": 53,
+    "y": 68,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 172 C",
+    "c": 0,
+    "m": 66,
+    "y": 88,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 173 C",
+    "c": 0,
+    "m": 69,
+    "y": 100,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 174 C",
+    "c": 0,
+    "m": 70,
+    "y": 100,
+    "k": 36
+  },
+  {
+    "pantone": "Pantone 175 C",
+    "c": 0,
+    "m": 65,
+    "y": 100,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 176 C",
+    "c": 0,
+    "m": 25,
+    "y": 18,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1765 C",
+    "c": 0,
+    "m": 38,
+    "y": 21,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1767 C",
+    "c": 0,
+    "m": 27,
+    "y": 12,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 177 C",
+    "c": 0,
+    "m": 45,
+    "y": 40,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1775 C",
+    "c": 0,
+    "m": 47,
+    "y": 29,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1777 C",
+    "c": 0,
+    "m": 58,
+    "y": 36,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 178 C",
+    "c": 0,
+    "m": 59,
+    "y": 56,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Warm Red C",
+    "c": 0,
+    "m": 75,
+    "y": 90,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1785 C",
+    "c": 0,
+    "m": 67,
+    "y": 50,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1787 C",
+    "c": 0,
+    "m": 76,
+    "y": 60,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Red 032 C",
+    "c": 0,
+    "m": 90,
+    "y": 86,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1788 C",
+    "c": 0,
+    "m": 84,
+    "y": 88,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 179 C",
+    "c": 0,
+    "m": 79,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1795 C",
+    "c": 0,
+    "m": 94,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1797 C",
+    "c": 0,
+    "m": 100,
+    "y": 99,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 180 C",
+    "c": 0,
+    "m": 79,
+    "y": 100,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 1805 C",
+    "c": 0,
+    "m": 91,
+    "y": 100,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 1807 C",
+    "c": 0,
+    "m": 100,
+    "y": 96,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 181 C",
+    "c": 0,
+    "m": 74,
+    "y": 100,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone 1815 C",
+    "c": 0,
+    "m": 90,
+    "y": 100,
+    "k": 51
+  },
+  {
+    "pantone": "Pantone 1817 C",
+    "c": 0,
+    "m": 90,
+    "y": 100,
+    "k": 66
+  },
+  {
+    "pantone": "Pantone 182 C",
+    "c": 0,
+    "m": 26,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 183 C",
+    "c": 0,
+    "m": 46,
+    "y": 21,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 184 C",
+    "c": 0,
+    "m": 68,
+    "y": 41,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 185 C",
+    "c": 0,
+    "m": 91,
+    "y": 76,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 186 C",
+    "c": 0,
+    "m": 100,
+    "y": 81,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 187 C",
+    "c": 0,
+    "m": 100,
+    "y": 79,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 188 C",
+    "c": 0,
+    "m": 97,
+    "y": 100,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 189 C",
+    "c": 0,
+    "m": 37,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1895 C",
+    "c": 0,
+    "m": 28,
+    "y": 7,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 190 C",
+    "c": 0,
+    "m": 55,
+    "y": 22,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1905 C",
+    "c": 0,
+    "m": 41,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 191 C",
+    "c": 0,
+    "m": 76,
+    "y": 38,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1915 C",
+    "c": 0,
+    "m": 71,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 192 C",
+    "c": 0,
+    "m": 100,
+    "y": 68,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1925 C",
+    "c": 0,
+    "m": 100,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 193 C",
+    "c": 0,
+    "m": 100,
+    "y": 66,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 1935 C",
+    "c": 0,
+    "m": 100,
+    "y": 57,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 194 C",
+    "c": 0,
+    "m": 100,
+    "y": 64,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 1945 C",
+    "c": 0,
+    "m": 100,
+    "y": 56,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 195 C",
+    "c": 0,
+    "m": 100,
+    "y": 60,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 1955 C",
+    "c": 0,
+    "m": 100,
+    "y": 60,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 196 C",
+    "c": 0,
+    "m": 25,
+    "y": 4,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 197 C",
+    "c": 0,
+    "m": 45,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 198 C",
+    "c": 0,
+    "m": 78,
+    "y": 33,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 199 C",
+    "c": 0,
+    "m": 100,
+    "y": 62,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 200 C",
+    "c": 0,
+    "m": 100,
+    "y": 63,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 201 C",
+    "c": 0,
+    "m": 100,
+    "y": 63,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 202 C",
+    "c": 0,
+    "m": 100,
+    "y": 61,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 203 C",
+    "c": 0,
+    "m": 34,
+    "y": 3,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 204 C",
+    "c": 0,
+    "m": 58,
+    "y": 3,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 205 C",
+    "c": 0,
+    "m": 84,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 206 C",
+    "c": 0,
+    "m": 100,
+    "y": 38,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 207 C",
+    "c": 0,
+    "m": 100,
+    "y": 43,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 208 C",
+    "c": 0,
+    "m": 100,
+    "y": 36,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 209 C",
+    "c": 0,
+    "m": 100,
+    "y": 34,
+    "k": 53
+  },
+  {
+    "pantone": "Pantone 210 C",
+    "c": 0,
+    "m": 39,
+    "y": 6,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 211 C",
+    "c": 0,
+    "m": 55,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 212 C",
+    "c": 0,
+    "m": 72,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 213 C",
+    "c": 0,
+    "m": 95,
+    "y": 27,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 214 C",
+    "c": 0,
+    "m": 100,
+    "y": 34,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 215 C",
+    "c": 0,
+    "m": 100,
+    "y": 35,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 216 C",
+    "c": 0,
+    "m": 95,
+    "y": 40,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 217 C",
+    "c": 0,
+    "m": 28,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 218 C",
+    "c": 2,
+    "m": 61,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 219 C",
+    "c": 1,
+    "m": 88,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Rubine Red C",
+    "c": 0,
+    "m": 100,
+    "y": 15,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 220 C",
+    "c": 0,
+    "m": 100,
+    "y": 13,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 221 C",
+    "c": 0,
+    "m": 100,
+    "y": 15,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 222 C",
+    "c": 0,
+    "m": 100,
+    "y": 10,
+    "k": 59
+  },
+  {
+    "pantone": "Pantone 223 C",
+    "c": 0,
+    "m": 46,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 224 C",
+    "c": 1,
+    "m": 63,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 225 C",
+    "c": 1,
+    "m": 83,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 226 C",
+    "c": 0,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 227 C",
+    "c": 0,
+    "m": 100,
+    "y": 7,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 228 C",
+    "c": 0,
+    "m": 100,
+    "y": 4,
+    "k": 41
+  },
+  {
+    "pantone": "Pantone 229 C",
+    "c": 0,
+    "m": 100,
+    "y": 15,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 230 C",
+    "c": 0,
+    "m": 34,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 231 C",
+    "c": 1,
+    "m": 52,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 232 C",
+    "c": 3,
+    "m": 67,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Rhodamine Red C",
+    "c": 3,
+    "m": 89,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 233 C",
+    "c": 11,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 234 C",
+    "c": 6,
+    "m": 100,
+    "y": 0,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 235 C",
+    "c": 5,
+    "m": 100,
+    "y": 0,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 236 C",
+    "c": 1,
+    "m": 30,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2365 C",
+    "c": 2,
+    "m": 27,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 237 C",
+    "c": 3,
+    "m": 49,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2375 C",
+    "c": 10,
+    "m": 57,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 238 C",
+    "c": 6,
+    "m": 63,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2385 C",
+    "c": 19,
+    "m": 79,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 239 C",
+    "c": 11,
+    "m": 79,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2395 C",
+    "c": 27,
+    "m": 95,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 240 C",
+    "c": 18,
+    "m": 94,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2405 C",
+    "c": 34,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 241 C",
+    "c": 27,
+    "m": 100,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 2415 C",
+    "c": 33,
+    "m": 100,
+    "y": 0,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 242 C",
+    "c": 10,
+    "m": 100,
+    "y": 0,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 2425 C",
+    "c": 37,
+    "m": 100,
+    "y": 0,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 243 C",
+    "c": 5,
+    "m": 29,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 244 C",
+    "c": 9,
+    "m": 38,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 245 C",
+    "c": 14,
+    "m": 53,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 246 C",
+    "c": 29,
+    "m": 90,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 247 C",
+    "c": 36,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 248 C",
+    "c": 40,
+    "m": 100,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 249 C",
+    "c": 40,
+    "m": 100,
+    "y": 0,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 250 C",
+    "c": 5,
+    "m": 18,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 251 C",
+    "c": 13,
+    "m": 39,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 252 C",
+    "c": 24,
+    "m": 56,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Purple C",
+    "c": 38,
+    "m": 88,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 253 C",
+    "c": 43,
+    "m": 95,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 254 C",
+    "c": 50,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 255 C",
+    "c": 51,
+    "m": 100,
+    "y": 0,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 256 C",
+    "c": 7,
+    "m": 20,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2562 C",
+    "c": 19,
+    "m": 35,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2563 C",
+    "c": 22,
+    "m": 33,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2567 C",
+    "c": 29,
+    "m": 36,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 257 C",
+    "c": 14,
+    "m": 34,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2572 C",
+    "c": 30,
+    "m": 47,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2573 C",
+    "c": 30,
+    "m": 43,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2577 C",
+    "c": 40,
+    "m": 45,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 258 C",
+    "c": 43,
+    "m": 76,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2582 C",
+    "c": 46,
+    "m": 72,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2583 C",
+    "c": 46,
+    "m": 63,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2587 C",
+    "c": 59,
+    "m": 66,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 259 C",
+    "c": 56,
+    "m": 100,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 2592 C",
+    "c": 60,
+    "m": 90,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2593 C",
+    "c": 61,
+    "m": 89,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2597 C",
+    "c": 85,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 260 C",
+    "c": 52,
+    "m": 100,
+    "y": 0,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 2602 C",
+    "c": 63,
+    "m": 100,
+    "y": 0,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 2603 C",
+    "c": 69,
+    "m": 100,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 2607 C",
+    "c": 81,
+    "m": 100,
+    "y": 0,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 261 C",
+    "c": 48,
+    "m": 100,
+    "y": 0,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 2612 C",
+    "c": 64,
+    "m": 100,
+    "y": 0,
+    "k": 14
+  },
+  {
+    "pantone": "Pantone 2613 C",
+    "c": 63,
+    "m": 100,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 2617 C",
+    "c": 79,
+    "m": 100,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 262 C",
+    "c": 45,
+    "m": 100,
+    "y": 0,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 2622 C",
+    "c": 58,
+    "m": 100,
+    "y": 0,
+    "k": 44
+  },
+  {
+    "pantone": "Pantone 2623 C",
+    "c": 59,
+    "m": 100,
+    "y": 0,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 2627 C",
+    "c": 77,
+    "m": 100,
+    "y": 0,
+    "k": 31
+  },
+  {
+    "pantone": "Pantone 263 C",
+    "c": 10,
+    "m": 14,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2635 C",
+    "c": 28,
+    "m": 27,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 264 C",
+    "c": 26,
+    "m": 28,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2645 C",
+    "c": 40,
+    "m": 36,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 265 C",
+    "c": 54,
+    "m": 56,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2655 C",
+    "c": 54,
+    "m": 49,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 266 C",
+    "c": 79,
+    "m": 90,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2665 C",
+    "c": 62,
+    "m": 60,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Violet C",
+    "c": 98,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 267 C",
+    "c": 89,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 268 C",
+    "c": 82,
+    "m": 100,
+    "y": 0,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 2685 C",
+    "c": 96,
+    "m": 100,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 269 C",
+    "c": 78,
+    "m": 100,
+    "y": 0,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 2695 C",
+    "c": 91,
+    "m": 100,
+    "y": 0,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 270 C",
+    "c": 31,
+    "m": 27,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2705 C",
+    "c": 40,
+    "m": 30,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2706 C",
+    "c": 19,
+    "m": 9,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2707 C",
+    "c": 17,
+    "m": 6,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2708 C",
+    "c": 26,
+    "m": 10,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 271 C",
+    "c": 43,
+    "m": 37,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2715 C",
+    "c": 57,
+    "m": 45,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2716 C",
+    "c": 45,
+    "m": 29,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2717 C",
+    "c": 29,
+    "m": 12,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2718 C",
+    "c": 67,
+    "m": 41,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 272 C",
+    "c": 58,
+    "m": 48,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2725 C",
+    "c": 77,
+    "m": 68,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2726 C",
+    "c": 79,
+    "m": 66,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2727 C",
+    "c": 71,
+    "m": 42,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Blue 072 C",
+    "c": 100,
+    "m": 88,
+    "y": 0,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 2728 C",
+    "c": 96,
+    "m": 69,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 273 C",
+    "c": 100,
+    "m": 96,
+    "y": 0,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 2735 C",
+    "c": 100,
+    "m": 95,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2736 C",
+    "c": 100,
+    "m": 91,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2738 C",
+    "c": 100,
+    "m": 87,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 274 C",
+    "c": 100,
+    "m": 100,
+    "y": 0,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 2745 C",
+    "c": 100,
+    "m": 95,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 2746 C",
+    "c": 100,
+    "m": 92,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 2747 C",
+    "c": 100,
+    "m": 86,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 2748 C",
+    "c": 100,
+    "m": 88,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 275 C",
+    "c": 98,
+    "m": 100,
+    "y": 0,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 2755 C",
+    "c": 100,
+    "m": 97,
+    "y": 0,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 2756 C",
+    "c": 100,
+    "m": 94,
+    "y": 0,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 2757 C",
+    "c": 100,
+    "m": 82,
+    "y": 0,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 2758 C",
+    "c": 100,
+    "m": 80,
+    "y": 0,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 276 C",
+    "c": 98,
+    "m": 100,
+    "y": 0,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 2765 C",
+    "c": 100,
+    "m": 97,
+    "y": 0,
+    "k": 45
+  },
+  {
+    "pantone": "Pantone 2766 C",
+    "c": 100,
+    "m": 94,
+    "y": 0,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone 2767 C",
+    "c": 100,
+    "m": 78,
+    "y": 0,
+    "k": 54
+  },
+  {
+    "pantone": "Pantone 2768 C",
+    "c": 100,
+    "m": 78,
+    "y": 0,
+    "k": 44
+  },
+  {
+    "pantone": "Pantone 277 C",
+    "c": 27,
+    "m": 7,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 278 C",
+    "c": 39,
+    "m": 14,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 279 C",
+    "c": 68,
+    "m": 34,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Reflex Blue C",
+    "c": 100,
+    "m": 73,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 280 C",
+    "c": 100,
+    "m": 72,
+    "y": 0,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 281 C",
+    "c": 100,
+    "m": 72,
+    "y": 0,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 282 C",
+    "c": 100,
+    "m": 68,
+    "y": 0,
+    "k": 54
+  },
+  {
+    "pantone": "Pantone 283 C",
+    "c": 35,
+    "m": 9,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 284 C",
+    "c": 55,
+    "m": 19,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 285 C",
+    "c": 89,
+    "m": 43,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 286 C",
+    "c": 100,
+    "m": 66,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 287 C",
+    "c": 100,
+    "m": 68,
+    "y": 0,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 288 C",
+    "c": 100,
+    "m": 67,
+    "y": 0,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 289 C",
+    "c": 100,
+    "m": 66,
+    "y": 0,
+    "k": 58
+  },
+  {
+    "pantone": "Pantone 290 C",
+    "c": 25,
+    "m": 2,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2905 C",
+    "c": 41,
+    "m": 2,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 291 C",
+    "c": 33,
+    "m": 3,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2915 C",
+    "c": 59,
+    "m": 7,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 292 C",
+    "c": 49,
+    "m": 11,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2925 C",
+    "c": 85,
+    "m": 24,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 293 C",
+    "c": 100,
+    "m": 57,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 2935 C",
+    "c": 100,
+    "m": 46,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 294 C",
+    "c": 100,
+    "m": 58,
+    "y": 0,
+    "k": 21
+  },
+  {
+    "pantone": "Pantone 2945 C",
+    "c": 100,
+    "m": 45,
+    "y": 0,
+    "k": 14
+  },
+  {
+    "pantone": "Pantone 295 C",
+    "c": 100,
+    "m": 57,
+    "y": 0,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 2955 C",
+    "c": 100,
+    "m": 45,
+    "y": 0,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 296 C",
+    "c": 100,
+    "m": 46,
+    "y": 0,
+    "k": 70
+  },
+  {
+    "pantone": "Pantone 2965 C",
+    "c": 100,
+    "m": 38,
+    "y": 0,
+    "k": 64
+  },
+  {
+    "pantone": "Pantone 297 C",
+    "c": 49,
+    "m": 1,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2975 C",
+    "c": 30,
+    "m": 0,
+    "y": 5,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 298 C",
+    "c": 69,
+    "m": 7,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2985 C",
+    "c": 59,
+    "m": 0,
+    "y": 6,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 299 C",
+    "c": 85,
+    "m": 19,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2995 C",
+    "c": 90,
+    "m": 11,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 300 C",
+    "c": 100,
+    "m": 44,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3005 C",
+    "c": 100,
+    "m": 36,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 301 C",
+    "c": 100,
+    "m": 45,
+    "y": 0,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 3015 C",
+    "c": 100,
+    "m": 33,
+    "y": 0,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 302 C",
+    "c": 100,
+    "m": 25,
+    "y": 0,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 3025 C",
+    "c": 100,
+    "m": 17,
+    "y": 0,
+    "k": 51
+  },
+  {
+    "pantone": "Pantone 303 C",
+    "c": 100,
+    "m": 11,
+    "y": 0,
+    "k": 74
+  },
+  {
+    "pantone": "Pantone 3035 C",
+    "c": 100,
+    "m": 0,
+    "y": 5,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 304 C",
+    "c": 30,
+    "m": 0,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 305 C",
+    "c": 51,
+    "m": 0,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 306 C",
+    "c": 75,
+    "m": 0,
+    "y": 7,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Process Blue C",
+    "c": 100,
+    "m": 10,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 307 C",
+    "c": 100,
+    "m": 16,
+    "y": 0,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 308 C",
+    "c": 100,
+    "m": 5,
+    "y": 0,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone 309 C",
+    "c": 100,
+    "m": 0,
+    "y": 9,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 310 C",
+    "c": 43,
+    "m": 0,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3105 C",
+    "c": 43,
+    "m": 0,
+    "y": 12,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 311 C",
+    "c": 63,
+    "m": 0,
+    "y": 12,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3115 C",
+    "c": 63,
+    "m": 0,
+    "y": 18,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 312 C",
+    "c": 96,
+    "m": 0,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3125 C",
+    "c": 83,
+    "m": 0,
+    "y": 21,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 313 C",
+    "c": 100,
+    "m": 0,
+    "y": 8,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 3135 C",
+    "c": 100,
+    "m": 0,
+    "y": 16,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 314 C",
+    "c": 100,
+    "m": 0,
+    "y": 9,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 3145 C",
+    "c": 100,
+    "m": 0,
+    "y": 19,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 315 C",
+    "c": 100,
+    "m": 0,
+    "y": 12,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 3155 C",
+    "c": 100,
+    "m": 0,
+    "y": 24,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 316 C",
+    "c": 100,
+    "m": 0,
+    "y": 27,
+    "k": 68
+  },
+  {
+    "pantone": "Pantone 3165 C",
+    "c": 100,
+    "m": 0,
+    "y": 28,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone 317 C",
+    "c": 18,
+    "m": 0,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 318 C",
+    "c": 38,
+    "m": 0,
+    "y": 15,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 319 C",
+    "c": 52,
+    "m": 0,
+    "y": 19,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 320 C",
+    "c": 100,
+    "m": 0,
+    "y": 31,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 321 C",
+    "c": 100,
+    "m": 0,
+    "y": 31,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 322 C",
+    "c": 100,
+    "m": 0,
+    "y": 33,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 323 C",
+    "c": 100,
+    "m": 0,
+    "y": 38,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone 324 C",
+    "c": 28,
+    "m": 0,
+    "y": 12,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3242 C",
+    "c": 37,
+    "m": 0,
+    "y": 18,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3245 C",
+    "c": 34,
+    "m": 0,
+    "y": 19,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3248 C",
+    "c": 43,
+    "m": 0,
+    "y": 24,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 325 C",
+    "c": 56,
+    "m": 0,
+    "y": 26,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3252 C",
+    "c": 47,
+    "m": 0,
+    "y": 24,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3255 C",
+    "c": 49,
+    "m": 0,
+    "y": 28,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3258 C",
+    "c": 59,
+    "m": 0,
+    "y": 33,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 326 C",
+    "c": 87,
+    "m": 0,
+    "y": 38,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3262 C",
+    "c": 71,
+    "m": 0,
+    "y": 33,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3265 C",
+    "c": 69,
+    "m": 0,
+    "y": 37,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3268 C",
+    "c": 90,
+    "m": 0,
+    "y": 49,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 327 C",
+    "c": 100,
+    "m": 0,
+    "y": 44,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 3272 C",
+    "c": 100,
+    "m": 0,
+    "y": 44,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3275 C",
+    "c": 95,
+    "m": 0,
+    "y": 47,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3278 C",
+    "c": 100,
+    "m": 0,
+    "y": 55,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 328 C",
+    "c": 100,
+    "m": 0,
+    "y": 45,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 3282 C",
+    "c": 100,
+    "m": 0,
+    "y": 46,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 3285 C",
+    "c": 100,
+    "m": 0,
+    "y": 50,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 3288 C",
+    "c": 100,
+    "m": 0,
+    "y": 54,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 329 C",
+    "c": 100,
+    "m": 0,
+    "y": 46,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 3292 C",
+    "c": 100,
+    "m": 0,
+    "y": 49,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 3295 C",
+    "c": 100,
+    "m": 0,
+    "y": 53,
+    "k": 21
+  },
+  {
+    "pantone": "Pantone 3298 C",
+    "c": 100,
+    "m": 0,
+    "y": 57,
+    "k": 42
+  },
+  {
+    "pantone": "Pantone 330 C",
+    "c": 100,
+    "m": 0,
+    "y": 48,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 3302 C",
+    "c": 100,
+    "m": 0,
+    "y": 54,
+    "k": 69
+  },
+  {
+    "pantone": "Pantone 3305 C",
+    "c": 100,
+    "m": 0,
+    "y": 61,
+    "k": 61
+  },
+  {
+    "pantone": "Pantone 3308 C",
+    "c": 100,
+    "m": 0,
+    "y": 60,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 331 C",
+    "c": 24,
+    "m": 0,
+    "y": 16,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 332 C",
+    "c": 30,
+    "m": 0,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 333 C",
+    "c": 43,
+    "m": 0,
+    "y": 27,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Green C",
+    "c": 100,
+    "m": 0,
+    "y": 59,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 334 C",
+    "c": 100,
+    "m": 0,
+    "y": 60,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 335 C",
+    "c": 100,
+    "m": 0,
+    "y": 65,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 336 C",
+    "c": 100,
+    "m": 0,
+    "y": 67,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone 337 C",
+    "c": 31,
+    "m": 0,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3375 C",
+    "c": 35,
+    "m": 0,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 338 C",
+    "c": 47,
+    "m": 0,
+    "y": 32,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3385 C",
+    "c": 45,
+    "m": 0,
+    "y": 33,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 339 C",
+    "c": 84,
+    "m": 0,
+    "y": 56,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3395 C",
+    "c": 61,
+    "m": 0,
+    "y": 45,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 340 C",
+    "c": 100,
+    "m": 0,
+    "y": 66,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 3405 C",
+    "c": 85,
+    "m": 0,
+    "y": 65,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 341 C",
+    "c": 100,
+    "m": 0,
+    "y": 67,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 3415 C",
+    "c": 100,
+    "m": 0,
+    "y": 77,
+    "k": 22
+  },
+  {
+    "pantone": "Pantone 342 C",
+    "c": 100,
+    "m": 0,
+    "y": 71,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 3425 C",
+    "c": 100,
+    "m": 0,
+    "y": 78,
+    "k": 42
+  },
+  {
+    "pantone": "Pantone 343 C",
+    "c": 98,
+    "m": 0,
+    "y": 72,
+    "k": 61
+  },
+  {
+    "pantone": "Pantone 3435 C",
+    "c": 100,
+    "m": 0,
+    "y": 81,
+    "k": 66
+  },
+  {
+    "pantone": "Pantone 344 C",
+    "c": 27,
+    "m": 0,
+    "y": 23,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 345 C",
+    "c": 38,
+    "m": 0,
+    "y": 32,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 346 C",
+    "c": 55,
+    "m": 0,
+    "y": 47,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 347 C",
+    "c": 100,
+    "m": 0,
+    "y": 86,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 348 C",
+    "c": 100,
+    "m": 0,
+    "y": 85,
+    "k": 24
+  },
+  {
+    "pantone": "Pantone 349 C",
+    "c": 100,
+    "m": 0,
+    "y": 91,
+    "k": 42
+  },
+  {
+    "pantone": "Pantone 350 C",
+    "c": 79,
+    "m": 0,
+    "y": 100,
+    "k": 75
+  },
+  {
+    "pantone": "Pantone 351 C",
+    "c": 17,
+    "m": 0,
+    "y": 16,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 352 C",
+    "c": 27,
+    "m": 0,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 353 C",
+    "c": 38,
+    "m": 0,
+    "y": 36,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 354 C",
+    "c": 80,
+    "m": 0,
+    "y": 90,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 355 C",
+    "c": 94,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 356 C",
+    "c": 95,
+    "m": 0,
+    "y": 100,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 357 C",
+    "c": 80,
+    "m": 0,
+    "y": 100,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 358 C",
+    "c": 27,
+    "m": 0,
+    "y": 38,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 359 C",
+    "c": 36,
+    "m": 0,
+    "y": 49,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 360 C",
+    "c": 58,
+    "m": 0,
+    "y": 80,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 361 C",
+    "c": 69,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 362 C",
+    "c": 70,
+    "m": 0,
+    "y": 100,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 363 C",
+    "c": 68,
+    "m": 0,
+    "y": 100,
+    "k": 24
+  },
+  {
+    "pantone": "Pantone 364 C",
+    "c": 65,
+    "m": 0,
+    "y": 100,
+    "k": 42
+  },
+  {
+    "pantone": "Pantone 365 C",
+    "c": 12,
+    "m": 0,
+    "y": 29,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 366 C",
+    "c": 20,
+    "m": 0,
+    "y": 44,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 367 C",
+    "c": 32,
+    "m": 0,
+    "y": 59,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 368 C",
+    "c": 57,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 369 C",
+    "c": 59,
+    "m": 0,
+    "y": 100,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 370 C",
+    "c": 56,
+    "m": 0,
+    "y": 100,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 371 C",
+    "c": 43,
+    "m": 0,
+    "y": 100,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 372 C",
+    "c": 10,
+    "m": 0,
+    "y": 33,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 373 C",
+    "c": 16,
+    "m": 0,
+    "y": 46,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 374 C",
+    "c": 24,
+    "m": 0,
+    "y": 57,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 375 C",
+    "c": 41,
+    "m": 0,
+    "y": 78,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 376 C",
+    "c": 52,
+    "m": 0,
+    "y": 100,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 377 C",
+    "c": 45,
+    "m": 0,
+    "y": 100,
+    "k": 24
+  },
+  {
+    "pantone": "Pantone 378 C",
+    "c": 34,
+    "m": 0,
+    "y": 100,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 379 C",
+    "c": 9,
+    "m": 0,
+    "y": 58,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 380 C",
+    "c": 13,
+    "m": 0,
+    "y": 72,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 381 C",
+    "c": 20,
+    "m": 0,
+    "y": 91,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 382 C",
+    "c": 29,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 383 C",
+    "c": 20,
+    "m": 0,
+    "y": 100,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 384 C",
+    "c": 18,
+    "m": 0,
+    "y": 100,
+    "k": 31
+  },
+  {
+    "pantone": "Pantone 385 C",
+    "c": 3,
+    "m": 0,
+    "y": 100,
+    "k": 58
+  },
+  {
+    "pantone": "Pantone 386 C",
+    "c": 6,
+    "m": 0,
+    "y": 56,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 387 C",
+    "c": 10,
+    "m": 0,
+    "y": 74,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 388 C",
+    "c": 14,
+    "m": 0,
+    "y": 79,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 389 C",
+    "c": 20,
+    "m": 0,
+    "y": 85,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 390 C",
+    "c": 22,
+    "m": 0,
+    "y": 100,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 391 C",
+    "c": 13,
+    "m": 0,
+    "y": 100,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 392 C",
+    "c": 7,
+    "m": 0,
+    "y": 100,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 393 C",
+    "c": 3,
+    "m": 0,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3935 C",
+    "c": 1,
+    "m": 0,
+    "y": 68,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 394 C",
+    "c": 6,
+    "m": 0,
+    "y": 76,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3945 C",
+    "c": 3,
+    "m": 0,
+    "y": 85,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 395 C",
+    "c": 8,
+    "m": 0,
+    "y": 85,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3955 C",
+    "c": 6,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 396 C",
+    "c": 11,
+    "m": 0,
+    "y": 94,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 3965 C",
+    "c": 8,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 397 C",
+    "c": 10,
+    "m": 0,
+    "y": 100,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 3975 C",
+    "c": 0,
+    "m": 0,
+    "y": 100,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 398 C",
+    "c": 7,
+    "m": 0,
+    "y": 100,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 3985 C",
+    "c": 0,
+    "m": 3,
+    "y": 100,
+    "k": 41
+  },
+  {
+    "pantone": "Pantone 399 C",
+    "c": 0,
+    "m": 0,
+    "y": 100,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 3995 C",
+    "c": 0,
+    "m": 3,
+    "y": 100,
+    "k": 64
+  },
+  {
+    "pantone": "Pantone 400 C",
+    "c": 0,
+    "m": 3,
+    "y": 6,
+    "k": 16
+  },
+  {
+    "pantone": "Pantone 401 C",
+    "c": 0,
+    "m": 5,
+    "y": 11,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 402 C",
+    "c": 0,
+    "m": 6,
+    "y": 14,
+    "k": 31
+  },
+  {
+    "pantone": "Pantone 403 C",
+    "c": 0,
+    "m": 7,
+    "y": 17,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 404 C",
+    "c": 0,
+    "m": 8,
+    "y": 22,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 405 C",
+    "c": 0,
+    "m": 10,
+    "y": 33,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone Black C",
+    "c": 0,
+    "m": 13,
+    "y": 49,
+    "k": 98
+  },
+  {
+    "pantone": "Pantone 406 C",
+    "c": 0,
+    "m": 5,
+    "y": 6,
+    "k": 16
+  },
+  {
+    "pantone": "Pantone 407 C",
+    "c": 0,
+    "m": 8,
+    "y": 9,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 408 C",
+    "c": 0,
+    "m": 10,
+    "y": 11,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 409 C",
+    "c": 0,
+    "m": 13,
+    "y": 15,
+    "k": 45
+  },
+  {
+    "pantone": "Pantone 410 C",
+    "c": 0,
+    "m": 18,
+    "y": 21,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 411 C",
+    "c": 0,
+    "m": 27,
+    "y": 36,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 412 C",
+    "c": 0,
+    "m": 30,
+    "y": 66,
+    "k": 98
+  },
+  {
+    "pantone": "Pantone 413 C",
+    "c": 0,
+    "m": 0,
+    "y": 9,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 414 C",
+    "c": 0,
+    "m": 0,
+    "y": 10,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 415 C",
+    "c": 0,
+    "m": 0,
+    "y": 12,
+    "k": 41
+  },
+  {
+    "pantone": "Pantone 416 C",
+    "c": 0,
+    "m": 0,
+    "y": 16,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 417 C",
+    "c": 1,
+    "m": 0,
+    "y": 25,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone 418 C",
+    "c": 3,
+    "m": 0,
+    "y": 31,
+    "k": 75
+  },
+  {
+    "pantone": "Pantone 419 C",
+    "c": 29,
+    "m": 0,
+    "y": 36,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone 420 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 421 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 422 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 423 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 44
+  },
+  {
+    "pantone": "Pantone 424 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 61
+  },
+  {
+    "pantone": "Pantone 425 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 77
+  },
+  {
+    "pantone": "Pantone 426 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone 427 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 428 C",
+    "c": 2,
+    "m": 0,
+    "y": 0,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 429 C",
+    "c": 3,
+    "m": 0,
+    "y": 0,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 430 C",
+    "c": 5,
+    "m": 0,
+    "y": 0,
+    "k": 45
+  },
+  {
+    "pantone": "Pantone 431 C",
+    "c": 11,
+    "m": 1,
+    "y": 0,
+    "k": 64
+  },
+  {
+    "pantone": "Pantone 432 C",
+    "c": 23,
+    "m": 2,
+    "y": 0,
+    "k": 77
+  },
+  {
+    "pantone": "Pantone 433 C",
+    "c": 33,
+    "m": 3,
+    "y": 0,
+    "k": 95
+  },
+  {
+    "pantone": "Pantone 434 C",
+    "c": 7,
+    "m": 10,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 435 C",
+    "c": 13,
+    "m": 16,
+    "y": 14,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 436 C",
+    "c": 24,
+    "m": 25,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 437 C",
+    "c": 46,
+    "m": 45,
+    "y": 46,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 438 C",
+    "c": 75,
+    "m": 70,
+    "y": 100,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 439 C",
+    "c": 80,
+    "m": 75,
+    "y": 100,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 440 C",
+    "c": 82,
+    "m": 78,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 441 C",
+    "c": 6,
+    "m": 0,
+    "y": 7,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 442 C",
+    "c": 8,
+    "m": 0,
+    "y": 9,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 443 C",
+    "c": 12,
+    "m": 0,
+    "y": 12,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 444 C",
+    "c": 15,
+    "m": 0,
+    "y": 15,
+    "k": 42
+  },
+  {
+    "pantone": "Pantone 445 C",
+    "c": 20,
+    "m": 0,
+    "y": 20,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone 446 C",
+    "c": 21,
+    "m": 0,
+    "y": 23,
+    "k": 75
+  },
+  {
+    "pantone": "Pantone 447 C",
+    "c": 16,
+    "m": 0,
+    "y": 31,
+    "k": 82
+  },
+  {
+    "pantone": "Pantone Warm Gray 1 C",
+    "c": 0,
+    "m": 2,
+    "y": 3,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone Warm Gray 2 C",
+    "c": 0,
+    "m": 2,
+    "y": 5,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone Warm Gray 3 C",
+    "c": 0,
+    "m": 4,
+    "y": 8,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone Warm Gray 4 C",
+    "c": 0,
+    "m": 4,
+    "y": 9,
+    "k": 24
+  },
+  {
+    "pantone": "Pantone Warm Gray 5 C",
+    "c": 0,
+    "m": 5,
+    "y": 10,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone Warm Gray 6 C",
+    "c": 0,
+    "m": 6,
+    "y": 12,
+    "k": 31
+  },
+  {
+    "pantone": "Pantone Warm Gray 7 C",
+    "c": 0,
+    "m": 8,
+    "y": 14,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone Warm Gray 8 C",
+    "c": 0,
+    "m": 9,
+    "y": 16,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone Warm Gray 9 C",
+    "c": 0,
+    "m": 11,
+    "y": 20,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone Warm Gray 10 C",
+    "c": 0,
+    "m": 14,
+    "y": 28,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone Warm Gray 11 C",
+    "c": 0,
+    "m": 17,
+    "y": 34,
+    "k": 62
+  },
+  {
+    "pantone": "Pantone Cool Gray 1 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone Cool Gray 2 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone Cool Gray 3 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone Cool Gray 4 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone Cool Gray 5 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone Cool Gray 6 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone Cool Gray 7 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone Cool Gray 8 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone Cool Gray 9 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone Cool Gray 10 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone Cool Gray 11 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 79
+  },
+  {
+    "pantone": "Pantone 448 C",
+    "c": 75,
+    "m": 65,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 4485 C",
+    "c": 0,
+    "m": 26,
+    "y": 100,
+    "k": 69
+  },
+  {
+    "pantone": "Pantone 449 C",
+    "c": 70,
+    "m": 60,
+    "y": 100,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 4495 C",
+    "c": 0,
+    "m": 20,
+    "y": 95,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 450 C",
+    "c": 65,
+    "m": 55,
+    "y": 100,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 4505 C",
+    "c": 0,
+    "m": 15,
+    "y": 78,
+    "k": 36
+  },
+  {
+    "pantone": "Pantone 451 C",
+    "c": 33,
+    "m": 29,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4515 C",
+    "c": 0,
+    "m": 9,
+    "y": 50,
+    "k": 24
+  },
+  {
+    "pantone": "Pantone 452 C",
+    "c": 24,
+    "m": 19,
+    "y": 39,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4525 C",
+    "c": 0,
+    "m": 7,
+    "y": 39,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 453 C",
+    "c": 14,
+    "m": 11,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4535 C",
+    "c": 0,
+    "m": 4,
+    "y": 30,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 454 C",
+    "c": 9,
+    "m": 7,
+    "y": 16,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4545 C",
+    "c": 0,
+    "m": 3,
+    "y": 19,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 455 C",
+    "c": 0,
+    "m": 17,
+    "y": 100,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone 456 C",
+    "c": 0,
+    "m": 15,
+    "y": 100,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 457 C",
+    "c": 0,
+    "m": 15,
+    "y": 100,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 458 C",
+    "c": 10,
+    "m": 10,
+    "y": 73,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 459 C",
+    "c": 6,
+    "m": 7,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 460 C",
+    "c": 4,
+    "m": 5,
+    "y": 44,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 461 C",
+    "c": 3,
+    "m": 3,
+    "y": 35,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 462 C",
+    "c": 50,
+    "m": 70,
+    "y": 100,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 4625 C",
+    "c": 0,
+    "m": 60,
+    "y": 100,
+    "k": 79
+  },
+  {
+    "pantone": "Pantone 463 C",
+    "c": 30,
+    "m": 60,
+    "y": 100,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 4635 C",
+    "c": 0,
+    "m": 48,
+    "y": 96,
+    "k": 44
+  },
+  {
+    "pantone": "Pantone 464 C",
+    "c": 10,
+    "m": 50,
+    "y": 100,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 4645 C",
+    "c": 0,
+    "m": 37,
+    "y": 68,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 465 C",
+    "c": 20,
+    "m": 32,
+    "y": 58,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4655 C",
+    "c": 0,
+    "m": 26,
+    "y": 45,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 466 C",
+    "c": 12,
+    "m": 22,
+    "y": 43,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4665 C",
+    "c": 0,
+    "m": 18,
+    "y": 32,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 467 C",
+    "c": 9,
+    "m": 15,
+    "y": 34,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4675 C",
+    "c": 0,
+    "m": 11,
+    "y": 21,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 468 C",
+    "c": 6,
+    "m": 9,
+    "y": 23,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4685 C",
+    "c": 0,
+    "m": 7,
+    "y": 14,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 469 C",
+    "c": 0,
+    "m": 65,
+    "y": 100,
+    "k": 71
+  },
+  {
+    "pantone": "Pantone 4695 C",
+    "c": 0,
+    "m": 81,
+    "y": 100,
+    "k": 74
+  },
+  {
+    "pantone": "Pantone 470 C",
+    "c": 0,
+    "m": 58,
+    "y": 100,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 4705 C",
+    "c": 0,
+    "m": 62,
+    "y": 71,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 471 C",
+    "c": 0,
+    "m": 59,
+    "y": 100,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 4715 C",
+    "c": 0,
+    "m": 42,
+    "y": 45,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 472 C",
+    "c": 0,
+    "m": 34,
+    "y": 52,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4725 C",
+    "c": 0,
+    "m": 32,
+    "y": 35,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 473 C",
+    "c": 0,
+    "m": 23,
+    "y": 36,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4735 C",
+    "c": 0,
+    "m": 22,
+    "y": 23,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 474 C",
+    "c": 0,
+    "m": 15,
+    "y": 26,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4745 C",
+    "c": 0,
+    "m": 17,
+    "y": 18,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 475 C",
+    "c": 0,
+    "m": 11,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 4755 C",
+    "c": 0,
+    "m": 10,
+    "y": 12,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 476 C",
+    "c": 60,
+    "m": 80,
+    "y": 100,
+    "k": 45
+  },
+  {
+    "pantone": "Pantone 477 C",
+    "c": 50,
+    "m": 85,
+    "y": 100,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 478 C",
+    "c": 40,
+    "m": 90,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 479 C",
+    "c": 31,
+    "m": 48,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 480 C",
+    "c": 15,
+    "m": 29,
+    "y": 31,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 481 C",
+    "c": 9,
+    "m": 19,
+    "y": 21,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 482 C",
+    "c": 5,
+    "m": 12,
+    "y": 13,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 483 C",
+    "c": 0,
+    "m": 93,
+    "y": 100,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 484 C",
+    "c": 0,
+    "m": 95,
+    "y": 100,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 485 C",
+    "c": 0,
+    "m": 95,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 486 C",
+    "c": 0,
+    "m": 47,
+    "y": 41,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 487 C",
+    "c": 0,
+    "m": 35,
+    "y": 28,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 488 C",
+    "c": 0,
+    "m": 26,
+    "y": 19,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 489 C",
+    "c": 0,
+    "m": 15,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 490 C",
+    "c": 0,
+    "m": 74,
+    "y": 100,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 491 C",
+    "c": 0,
+    "m": 79,
+    "y": 100,
+    "k": 52
+  },
+  {
+    "pantone": "Pantone 492 C",
+    "c": 0,
+    "m": 77,
+    "y": 100,
+    "k": 42
+  },
+  {
+    "pantone": "Pantone 493 C",
+    "c": 0,
+    "m": 46,
+    "y": 23,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 494 C",
+    "c": 0,
+    "m": 33,
+    "y": 13,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 495 C",
+    "c": 0,
+    "m": 24,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 496 C",
+    "c": 0,
+    "m": 16,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 497 C",
+    "c": 0,
+    "m": 70,
+    "y": 100,
+    "k": 78
+  },
+  {
+    "pantone": "Pantone 4975 C",
+    "c": 0,
+    "m": 73,
+    "y": 100,
+    "k": 80
+  },
+  {
+    "pantone": "Pantone 498 C",
+    "c": 0,
+    "m": 64,
+    "y": 100,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 4985 C",
+    "c": 0,
+    "m": 62,
+    "y": 51,
+    "k": 48
+  },
+  {
+    "pantone": "Pantone 499 C",
+    "c": 0,
+    "m": 63,
+    "y": 100,
+    "k": 48
+  },
+  {
+    "pantone": "Pantone 4995 C",
+    "c": 0,
+    "m": 48,
+    "y": 38,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 500 C",
+    "c": 0,
+    "m": 38,
+    "y": 21,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 5005 C",
+    "c": 0,
+    "m": 38,
+    "y": 27,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 501 C",
+    "c": 0,
+    "m": 27,
+    "y": 13,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 5015 C",
+    "c": 0,
+    "m": 25,
+    "y": 15,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 502 C",
+    "c": 0,
+    "m": 18,
+    "y": 10,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 5025 C",
+    "c": 0,
+    "m": 18,
+    "y": 12,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 503 C",
+    "c": 0,
+    "m": 11,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5035 C",
+    "c": 0,
+    "m": 10,
+    "y": 9,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 504 C",
+    "c": 70,
+    "m": 100,
+    "y": 100,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 505 C",
+    "c": 50,
+    "m": 100,
+    "y": 100,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 506 C",
+    "c": 45,
+    "m": 100,
+    "y": 100,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 507 C",
+    "c": 13,
+    "m": 49,
+    "y": 23,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 508 C",
+    "c": 5,
+    "m": 36,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 509 C",
+    "c": 0,
+    "m": 24,
+    "y": 7,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 510 C",
+    "c": 0,
+    "m": 17,
+    "y": 6,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 511 C",
+    "c": 70,
+    "m": 100,
+    "y": 50,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 5115 C",
+    "c": 80,
+    "m": 100,
+    "y": 70,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 512 C",
+    "c": 60,
+    "m": 100,
+    "y": 15,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 5125 C",
+    "c": 65,
+    "m": 86,
+    "y": 49,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 513 C",
+    "c": 46,
+    "m": 88,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5135 C",
+    "c": 49,
+    "m": 66,
+    "y": 28,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 514 C",
+    "c": 15,
+    "m": 50,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5145 C",
+    "c": 30,
+    "m": 45,
+    "y": 12,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 515 C",
+    "c": 7,
+    "m": 38,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5155 C",
+    "c": 17,
+    "m": 30,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 516 C",
+    "c": 3,
+    "m": 27,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5165 C",
+    "c": 9,
+    "m": 19,
+    "y": 5,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 517 C",
+    "c": 0,
+    "m": 18,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5175 C",
+    "c": 5,
+    "m": 12,
+    "y": 3,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 518 C",
+    "c": 80,
+    "m": 100,
+    "y": 60,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 5185 C",
+    "c": 88,
+    "m": 100,
+    "y": 85,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 519 C",
+    "c": 72,
+    "m": 100,
+    "y": 35,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 5195 C",
+    "c": 75,
+    "m": 95,
+    "y": 68,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 520 C",
+    "c": 64,
+    "m": 100,
+    "y": 12,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5205 C",
+    "c": 52,
+    "m": 63,
+    "y": 48,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 521 C",
+    "c": 27,
+    "m": 47,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5215 C",
+    "c": 29,
+    "m": 38,
+    "y": 24,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 522 C",
+    "c": 17,
+    "m": 37,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5225 C",
+    "c": 17,
+    "m": 27,
+    "y": 15,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 523 C",
+    "c": 10,
+    "m": 26,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5235 C",
+    "c": 10,
+    "m": 17,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 524 C",
+    "c": 6,
+    "m": 15,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5245 C",
+    "c": 6,
+    "m": 10,
+    "y": 7,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 525 C",
+    "c": 84,
+    "m": 100,
+    "y": 45,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 5255 C",
+    "c": 83,
+    "m": 85,
+    "y": 0,
+    "k": 70
+  },
+  {
+    "pantone": "Pantone 526 C",
+    "c": 77,
+    "m": 100,
+    "y": 7,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5265 C",
+    "c": 77,
+    "m": 73,
+    "y": 0,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 527 C",
+    "c": 73,
+    "m": 100,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5275 C",
+    "c": 67,
+    "m": 57,
+    "y": 0,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 528 C",
+    "c": 41,
+    "m": 55,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5285 C",
+    "c": 42,
+    "m": 35,
+    "y": 0,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 529 C",
+    "c": 26,
+    "m": 40,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5295 C",
+    "c": 27,
+    "m": 22,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 530 C",
+    "c": 18,
+    "m": 31,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5305 C",
+    "c": 16,
+    "m": 13,
+    "y": 0,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 531 C",
+    "c": 10,
+    "m": 20,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5315 C",
+    "c": 6,
+    "m": 6,
+    "y": 0,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 532 C",
+    "c": 100,
+    "m": 88,
+    "y": 70,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 533 C",
+    "c": 100,
+    "m": 85,
+    "y": 46,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 534 C",
+    "c": 100,
+    "m": 82,
+    "y": 30,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 535 C",
+    "c": 42,
+    "m": 30,
+    "y": 7,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 536 C",
+    "c": 31,
+    "m": 22,
+    "y": 5,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 537 C",
+    "c": 22,
+    "m": 14,
+    "y": 3,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 538 C",
+    "c": 13,
+    "m": 9,
+    "y": 2,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 539 C",
+    "c": 100,
+    "m": 49,
+    "y": 0,
+    "k": 70
+  },
+  {
+    "pantone": "Pantone 5395 C",
+    "c": 100,
+    "m": 44,
+    "y": 0,
+    "k": 76
+  },
+  {
+    "pantone": "Pantone 540 C",
+    "c": 100,
+    "m": 55,
+    "y": 0,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 5405 C",
+    "c": 58,
+    "m": 17,
+    "y": 0,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 541 C",
+    "c": 100,
+    "m": 57,
+    "y": 0,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 5415 C",
+    "c": 40,
+    "m": 8,
+    "y": 0,
+    "k": 41
+  },
+  {
+    "pantone": "Pantone 542 C",
+    "c": 62,
+    "m": 22,
+    "y": 0,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 5425 C",
+    "c": 30,
+    "m": 4,
+    "y": 0,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 543 C",
+    "c": 41,
+    "m": 11,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5435 C",
+    "c": 13,
+    "m": 3,
+    "y": 0,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 544 C",
+    "c": 30,
+    "m": 6,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5445 C",
+    "c": 8,
+    "m": 1,
+    "y": 0,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 545 C",
+    "c": 22,
+    "m": 3,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5455 C",
+    "c": 6,
+    "m": 0,
+    "y": 0,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 546 C",
+    "c": 95,
+    "m": 9,
+    "y": 0,
+    "k": 83
+  },
+  {
+    "pantone": "Pantone 5463 C",
+    "c": 100,
+    "m": 0,
+    "y": 18,
+    "k": 83
+  },
+  {
+    "pantone": "Pantone 5467 C",
+    "c": 100,
+    "m": 0,
+    "y": 30,
+    "k": 95
+  },
+  {
+    "pantone": "Pantone 547 C",
+    "c": 100,
+    "m": 19,
+    "y": 0,
+    "k": 75
+  },
+  {
+    "pantone": "Pantone 5473 C",
+    "c": 82,
+    "m": 0,
+    "y": 28,
+    "k": 52
+  },
+  {
+    "pantone": "Pantone 5477 C",
+    "c": 56,
+    "m": 0,
+    "y": 27,
+    "k": 74
+  },
+  {
+    "pantone": "Pantone 548 C",
+    "c": 100,
+    "m": 24,
+    "y": 0,
+    "k": 64
+  },
+  {
+    "pantone": "Pantone 5483 C",
+    "c": 62,
+    "m": 0,
+    "y": 21,
+    "k": 31
+  },
+  {
+    "pantone": "Pantone 5487 C",
+    "c": 36,
+    "m": 0,
+    "y": 17,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 549 C",
+    "c": 54,
+    "m": 7,
+    "y": 0,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 5493 C",
+    "c": 43,
+    "m": 0,
+    "y": 14,
+    "k": 21
+  },
+  {
+    "pantone": "Pantone 5497 C",
+    "c": 18,
+    "m": 0,
+    "y": 9,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 550 C",
+    "c": 39,
+    "m": 4,
+    "y": 0,
+    "k": 21
+  },
+  {
+    "pantone": "Pantone 5503 C",
+    "c": 29,
+    "m": 0,
+    "y": 10,
+    "k": 14
+  },
+  {
+    "pantone": "Pantone 5507 C",
+    "c": 11,
+    "m": 0,
+    "y": 7,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 551 C",
+    "c": 27,
+    "m": 3,
+    "y": 0,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 5513 C",
+    "c": 18,
+    "m": 0,
+    "y": 7,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 5517 C",
+    "c": 9,
+    "m": 0,
+    "y": 6,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 552 C",
+    "c": 15,
+    "m": 0,
+    "y": 0,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 5523 C",
+    "c": 11,
+    "m": 0,
+    "y": 5,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 5527 C",
+    "c": 6,
+    "m": 0,
+    "y": 4,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 553 C",
+    "c": 60,
+    "m": 0,
+    "y": 51,
+    "k": 80
+  },
+  {
+    "pantone": "Pantone 5535 C",
+    "c": 66,
+    "m": 0,
+    "y": 57,
+    "k": 82
+  },
+  {
+    "pantone": "Pantone 554 C",
+    "c": 80,
+    "m": 0,
+    "y": 60,
+    "k": 67
+  },
+  {
+    "pantone": "Pantone 5545 C",
+    "c": 59,
+    "m": 0,
+    "y": 50,
+    "k": 52
+  },
+  {
+    "pantone": "Pantone 555 C",
+    "c": 79,
+    "m": 0,
+    "y": 56,
+    "k": 56
+  },
+  {
+    "pantone": "Pantone 5555 C",
+    "c": 43,
+    "m": 0,
+    "y": 34,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 556 C",
+    "c": 45,
+    "m": 0,
+    "y": 31,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 5565 C",
+    "c": 30,
+    "m": 0,
+    "y": 24,
+    "k": 26
+  },
+  {
+    "pantone": "Pantone 557 C",
+    "c": 30,
+    "m": 0,
+    "y": 20,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 5575 C",
+    "c": 20,
+    "m": 0,
+    "y": 16,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 558 C",
+    "c": 20,
+    "m": 0,
+    "y": 13,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 5585 C",
+    "c": 12,
+    "m": 0,
+    "y": 11,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 559 C",
+    "c": 14,
+    "m": 0,
+    "y": 10,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 5595 C",
+    "c": 7,
+    "m": 0,
+    "y": 8,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 560 C",
+    "c": 80,
+    "m": 0,
+    "y": 63,
+    "k": 75
+  },
+  {
+    "pantone": "Pantone 5605 C",
+    "c": 65,
+    "m": 0,
+    "y": 56,
+    "k": 94
+  },
+  {
+    "pantone": "Pantone 561 C",
+    "c": 85,
+    "m": 0,
+    "y": 54,
+    "k": 52
+  },
+  {
+    "pantone": "Pantone 5615 C",
+    "c": 44,
+    "m": 0,
+    "y": 47,
+    "k": 68
+  },
+  {
+    "pantone": "Pantone 562 C",
+    "c": 85,
+    "m": 0,
+    "y": 50,
+    "k": 31
+  },
+  {
+    "pantone": "Pantone 5625 C",
+    "c": 28,
+    "m": 0,
+    "y": 30,
+    "k": 51
+  },
+  {
+    "pantone": "Pantone 563 C",
+    "c": 52,
+    "m": 0,
+    "y": 32,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 5635 C",
+    "c": 16,
+    "m": 0,
+    "y": 18,
+    "k": 36
+  },
+  {
+    "pantone": "Pantone 564 C",
+    "c": 37,
+    "m": 0,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5645 C",
+    "c": 9,
+    "m": 0,
+    "y": 13,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 565 C",
+    "c": 23,
+    "m": 0,
+    "y": 13,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5655 C",
+    "c": 6,
+    "m": 0,
+    "y": 9,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 566 C",
+    "c": 14,
+    "m": 0,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5665 C",
+    "c": 5,
+    "m": 0,
+    "y": 7,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 567 C",
+    "c": 82,
+    "m": 0,
+    "y": 64,
+    "k": 70
+  },
+  {
+    "pantone": "Pantone 568 C",
+    "c": 88,
+    "m": 0,
+    "y": 57,
+    "k": 36
+  },
+  {
+    "pantone": "Pantone 569 C",
+    "c": 98,
+    "m": 0,
+    "y": 57,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 570 C",
+    "c": 48,
+    "m": 0,
+    "y": 29,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 571 C",
+    "c": 32,
+    "m": 0,
+    "y": 19,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 572 C",
+    "c": 23,
+    "m": 0,
+    "y": 14,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 573 C",
+    "c": 14,
+    "m": 0,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 574 C",
+    "c": 34,
+    "m": 0,
+    "y": 81,
+    "k": 71
+  },
+  {
+    "pantone": "Pantone 5743 C",
+    "c": 33,
+    "m": 0,
+    "y": 85,
+    "k": 82
+  },
+  {
+    "pantone": "Pantone 5747 C",
+    "c": 32,
+    "m": 0,
+    "y": 100,
+    "k": 79
+  },
+  {
+    "pantone": "Pantone 575 C",
+    "c": 48,
+    "m": 0,
+    "y": 100,
+    "k": 53
+  },
+  {
+    "pantone": "Pantone 5753 C",
+    "c": 25,
+    "m": 0,
+    "y": 81,
+    "k": 67
+  },
+  {
+    "pantone": "Pantone 5757 C",
+    "c": 27,
+    "m": 0,
+    "y": 95,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 576 C",
+    "c": 49,
+    "m": 0,
+    "y": 100,
+    "k": 39
+  },
+  {
+    "pantone": "Pantone 5763 C",
+    "c": 16,
+    "m": 0,
+    "y": 74,
+    "k": 57
+  },
+  {
+    "pantone": "Pantone 5767 C",
+    "c": 15,
+    "m": 0,
+    "y": 68,
+    "k": 39
+  },
+  {
+    "pantone": "Pantone 577 C",
+    "c": 24,
+    "m": 0,
+    "y": 46,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 5773 C",
+    "c": 9,
+    "m": 0,
+    "y": 43,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 5777 C",
+    "c": 10,
+    "m": 0,
+    "y": 49,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 578 C",
+    "c": 20,
+    "m": 0,
+    "y": 40,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 5783 C",
+    "c": 6,
+    "m": 0,
+    "y": 28,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 5787 C",
+    "c": 7,
+    "m": 0,
+    "y": 31,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 579 C",
+    "c": 17,
+    "m": 0,
+    "y": 34,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 5793 C",
+    "c": 4,
+    "m": 0,
+    "y": 21,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 5797 C",
+    "c": 5,
+    "m": 0,
+    "y": 24,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 580 C",
+    "c": 12,
+    "m": 0,
+    "y": 26,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 5803 C",
+    "c": 2,
+    "m": 0,
+    "y": 12,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 5807 C",
+    "c": 3,
+    "m": 0,
+    "y": 14,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 581 C",
+    "c": 2,
+    "m": 0,
+    "y": 100,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 5815 C",
+    "c": 0,
+    "m": 0,
+    "y": 91,
+    "k": 79
+  },
+  {
+    "pantone": "Pantone 582 C",
+    "c": 13,
+    "m": 0,
+    "y": 100,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 5825 C",
+    "c": 0,
+    "m": 2,
+    "y": 87,
+    "k": 59
+  },
+  {
+    "pantone": "Pantone 583 C",
+    "c": 23,
+    "m": 0,
+    "y": 100,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 5835 C",
+    "c": 0,
+    "m": 2,
+    "y": 67,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 584 C",
+    "c": 12,
+    "m": 0,
+    "y": 79,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 5845 C",
+    "c": 0,
+    "m": 1,
+    "y": 47,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 585 C",
+    "c": 11,
+    "m": 0,
+    "y": 66,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 5855 C",
+    "c": 0,
+    "m": 0,
+    "y": 31,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 586 C",
+    "c": 9,
+    "m": 0,
+    "y": 53,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5865 C",
+    "c": 0,
+    "m": 0,
+    "y": 25,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 587 C",
+    "c": 5,
+    "m": 0,
+    "y": 40,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 5875 C",
+    "c": 0,
+    "m": 0,
+    "y": 18,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 600 C",
+    "c": 0,
+    "m": 0,
+    "y": 29,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 601 C",
+    "c": 0,
+    "m": 0,
+    "y": 40,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 602 C",
+    "c": 0,
+    "m": 0,
+    "y": 51,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 603 C",
+    "c": 0,
+    "m": 0,
+    "y": 69,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 604 C",
+    "c": 0,
+    "m": 0,
+    "y": 88,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 605 C",
+    "c": 0,
+    "m": 2,
+    "y": 100,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 606 C",
+    "c": 0,
+    "m": 4,
+    "y": 100,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 607 C",
+    "c": 0,
+    "m": 0,
+    "y": 18,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 608 C",
+    "c": 0,
+    "m": 0,
+    "y": 32,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 609 C",
+    "c": 0,
+    "m": 0,
+    "y": 46,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 610 C",
+    "c": 0,
+    "m": 0,
+    "y": 58,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 611 C",
+    "c": 0,
+    "m": 1,
+    "y": 92,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 612 C",
+    "c": 0,
+    "m": 2,
+    "y": 100,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 613 C",
+    "c": 0,
+    "m": 4,
+    "y": 100,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 614 C",
+    "c": 0,
+    "m": 0,
+    "y": 20,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 615 C",
+    "c": 0,
+    "m": 1,
+    "y": 27,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 616 C",
+    "c": 0,
+    "m": 2,
+    "y": 35,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 617 C",
+    "c": 0,
+    "m": 2,
+    "y": 48,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 618 C",
+    "c": 0,
+    "m": 3,
+    "y": 87,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 619 C",
+    "c": 0,
+    "m": 4,
+    "y": 100,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 620 C",
+    "c": 0,
+    "m": 5,
+    "y": 100,
+    "k": 53
+  },
+  {
+    "pantone": "Pantone 621 C",
+    "c": 13,
+    "m": 0,
+    "y": 10,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 622 C",
+    "c": 24,
+    "m": 0,
+    "y": 19,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 623 C",
+    "c": 32,
+    "m": 0,
+    "y": 24,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 624 C",
+    "c": 44,
+    "m": 0,
+    "y": 35,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 625 C",
+    "c": 56,
+    "m": 0,
+    "y": 44,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 626 C",
+    "c": 76,
+    "m": 0,
+    "y": 64,
+    "k": 63
+  },
+  {
+    "pantone": "Pantone 627 C",
+    "c": 90,
+    "m": 0,
+    "y": 76,
+    "k": 84
+  },
+  {
+    "pantone": "Pantone 628 C",
+    "c": 19,
+    "m": 0,
+    "y": 6,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 629 C",
+    "c": 34,
+    "m": 0,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 630 C",
+    "c": 47,
+    "m": 0,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 631 C",
+    "c": 67,
+    "m": 0,
+    "y": 12,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 632 C",
+    "c": 92,
+    "m": 0,
+    "y": 15,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 633 C",
+    "c": 100,
+    "m": 0,
+    "y": 10,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 634 C",
+    "c": 100,
+    "m": 0,
+    "y": 9,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 635 C",
+    "c": 32,
+    "m": 0,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 636 C",
+    "c": 45,
+    "m": 0,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 637 C",
+    "c": 55,
+    "m": 0,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 638 C",
+    "c": 83,
+    "m": 0,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 639 C",
+    "c": 100,
+    "m": 0,
+    "y": 5,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 640 C",
+    "c": 100,
+    "m": 0,
+    "y": 0,
+    "k": 22
+  },
+  {
+    "pantone": "Pantone 641 C",
+    "c": 100,
+    "m": 4,
+    "y": 0,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 642 C",
+    "c": 16,
+    "m": 4,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 643 C",
+    "c": 25,
+    "m": 7,
+    "y": 0,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 644 C",
+    "c": 42,
+    "m": 15,
+    "y": 0,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 645 C",
+    "c": 57,
+    "m": 28,
+    "y": 0,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 646 C",
+    "c": 69,
+    "m": 34,
+    "y": 0,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 647 C",
+    "c": 100,
+    "m": 56,
+    "y": 0,
+    "k": 23
+  },
+  {
+    "pantone": "Pantone 648 C",
+    "c": 100,
+    "m": 62,
+    "y": 0,
+    "k": 54
+  },
+  {
+    "pantone": "Pantone 649 C",
+    "c": 14,
+    "m": 6,
+    "y": 0,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 650 C",
+    "c": 24,
+    "m": 9,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 651 C",
+    "c": 38,
+    "m": 18,
+    "y": 0,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 652 C",
+    "c": 60,
+    "m": 34,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 653 C",
+    "c": 100,
+    "m": 62,
+    "y": 0,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 654 C",
+    "c": 100,
+    "m": 64,
+    "y": 0,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 655 C",
+    "c": 100,
+    "m": 65,
+    "y": 0,
+    "k": 52
+  },
+  {
+    "pantone": "Pantone 656 C",
+    "c": 14,
+    "m": 4,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 657 C",
+    "c": 24,
+    "m": 8,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 658 C",
+    "c": 41,
+    "m": 20,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 659 C",
+    "c": 64,
+    "m": 35,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 660 C",
+    "c": 90,
+    "m": 57,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 661 C",
+    "c": 100,
+    "m": 69,
+    "y": 0,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 662 C",
+    "c": 100,
+    "m": 72,
+    "y": 0,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 663 C",
+    "c": 7,
+    "m": 6,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 664 C",
+    "c": 11,
+    "m": 9,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 665 C",
+    "c": 20,
+    "m": 17,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 666 C",
+    "c": 31,
+    "m": 30,
+    "y": 0,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 667 C",
+    "c": 52,
+    "m": 49,
+    "y": 0,
+    "k": 14
+  },
+  {
+    "pantone": "Pantone 668 C",
+    "c": 65,
+    "m": 64,
+    "y": 0,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 669 C",
+    "c": 76,
+    "m": 78,
+    "y": 0,
+    "k": 47
+  },
+  {
+    "pantone": "Pantone 670 C",
+    "c": 0,
+    "m": 13,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 671 C",
+    "c": 1,
+    "m": 20,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 672 C",
+    "c": 3,
+    "m": 34,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 673 C",
+    "c": 6,
+    "m": 49,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 674 C",
+    "c": 9,
+    "m": 67,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 675 C",
+    "c": 17,
+    "m": 100,
+    "y": 0,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 676 C",
+    "c": 6,
+    "m": 100,
+    "y": 0,
+    "k": 22
+  },
+  {
+    "pantone": "Pantone 677 C",
+    "c": 2,
+    "m": 13,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 678 C",
+    "c": 3,
+    "m": 21,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 679 C",
+    "c": 5,
+    "m": 27,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 680 C",
+    "c": 10,
+    "m": 43,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 681 C",
+    "c": 21,
+    "m": 61,
+    "y": 0,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 682 C",
+    "c": 25,
+    "m": 79,
+    "y": 0,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 683 C",
+    "c": 11,
+    "m": 100,
+    "y": 0,
+    "k": 43
+  },
+  {
+    "pantone": "Pantone 684 C",
+    "c": 0,
+    "m": 17,
+    "y": 0,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 685 C",
+    "c": 0,
+    "m": 25,
+    "y": 0,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 686 C",
+    "c": 0,
+    "m": 30,
+    "y": 0,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 687 C",
+    "c": 2,
+    "m": 44,
+    "y": 0,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 688 C",
+    "c": 5,
+    "m": 57,
+    "y": 0,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 689 C",
+    "c": 7,
+    "m": 77,
+    "y": 0,
+    "k": 34
+  },
+  {
+    "pantone": "Pantone 690 C",
+    "c": 0,
+    "m": 97,
+    "y": 0,
+    "k": 59
+  },
+  {
+    "pantone": "Pantone 691 C",
+    "c": 0,
+    "m": 15,
+    "y": 8,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 692 C",
+    "c": 0,
+    "m": 23,
+    "y": 10,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 693 C",
+    "c": 0,
+    "m": 30,
+    "y": 12,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 694 C",
+    "c": 0,
+    "m": 43,
+    "y": 19,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 695 C",
+    "c": 0,
+    "m": 58,
+    "y": 28,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 696 C",
+    "c": 0,
+    "m": 84,
+    "y": 54,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 697 C",
+    "c": 0,
+    "m": 93,
+    "y": 70,
+    "k": 51
+  },
+  {
+    "pantone": "Pantone 698 C",
+    "c": 0,
+    "m": 16,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 699 C",
+    "c": 0,
+    "m": 24,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 700 C",
+    "c": 0,
+    "m": 36,
+    "y": 14,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 701 C",
+    "c": 0,
+    "m": 53,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 702 C",
+    "c": 0,
+    "m": 69,
+    "y": 34,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 703 C",
+    "c": 0,
+    "m": 83,
+    "y": 54,
+    "k": 16
+  },
+  {
+    "pantone": "Pantone 704 C",
+    "c": 0,
+    "m": 100,
+    "y": 80,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 705 C",
+    "c": 0,
+    "m": 9,
+    "y": 5,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 706 C",
+    "c": 0,
+    "m": 17,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 707 C",
+    "c": 0,
+    "m": 30,
+    "y": 14,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 708 C",
+    "c": 0,
+    "m": 46,
+    "y": 22,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 709 C",
+    "c": 0,
+    "m": 66,
+    "y": 38,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 710 C",
+    "c": 0,
+    "m": 79,
+    "y": 58,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 711 C",
+    "c": 0,
+    "m": 100,
+    "y": 80,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 712 C",
+    "c": 0,
+    "m": 14,
+    "y": 31,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 713 C",
+    "c": 0,
+    "m": 19,
+    "y": 41,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 714 C",
+    "c": 0,
+    "m": 28,
+    "y": 54,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 715 C",
+    "c": 0,
+    "m": 37,
+    "y": 71,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 716 C",
+    "c": 0,
+    "m": 47,
+    "y": 91,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 717 C",
+    "c": 0,
+    "m": 55,
+    "y": 100,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 718 C",
+    "c": 0,
+    "m": 58,
+    "y": 100,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 719 C",
+    "c": 0,
+    "m": 10,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 720 C",
+    "c": 0,
+    "m": 15,
+    "y": 34,
+    "k": 1
+  },
+  {
+    "pantone": "Pantone 721 C",
+    "c": 0,
+    "m": 24,
+    "y": 52,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 722 C",
+    "c": 0,
+    "m": 36,
+    "y": 76,
+    "k": 9
+  },
+  {
+    "pantone": "Pantone 723 C",
+    "c": 0,
+    "m": 45,
+    "y": 95,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 724 C",
+    "c": 0,
+    "m": 53,
+    "y": 100,
+    "k": 37
+  },
+  {
+    "pantone": "Pantone 725 C",
+    "c": 0,
+    "m": 55,
+    "y": 100,
+    "k": 49
+  },
+  {
+    "pantone": "Pantone 726 C",
+    "c": 0,
+    "m": 8,
+    "y": 23,
+    "k": 2
+  },
+  {
+    "pantone": "Pantone 727 C",
+    "c": 0,
+    "m": 15,
+    "y": 34,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 728 C",
+    "c": 0,
+    "m": 21,
+    "y": 48,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 729 C",
+    "c": 0,
+    "m": 31,
+    "y": 61,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 730 C",
+    "c": 0,
+    "m": 39,
+    "y": 76,
+    "k": 29
+  },
+  {
+    "pantone": "Pantone 731 C",
+    "c": 0,
+    "m": 53,
+    "y": 100,
+    "k": 54
+  },
+  {
+    "pantone": "Pantone 732 C",
+    "c": 0,
+    "m": 56,
+    "y": 100,
+    "k": 64
+  },
+  {
+    "pantone": "Pantone 7401 C",
+    "c": 0,
+    "m": 4,
+    "y": 18,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7402 C",
+    "c": 0,
+    "m": 6,
+    "y": 30,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7403 C",
+    "c": 0,
+    "m": 10,
+    "y": 50,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7404 C",
+    "c": 0,
+    "m": 9,
+    "y": 80,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7405 C",
+    "c": 0,
+    "m": 10,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7406 C",
+    "c": 0,
+    "m": 18,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7407 C",
+    "c": 0,
+    "m": 22,
+    "y": 85,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 7408 C",
+    "c": 0,
+    "m": 25,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7409 C",
+    "c": 0,
+    "m": 30,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7410 C",
+    "c": 0,
+    "m": 30,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7411 C",
+    "c": 0,
+    "m": 35,
+    "y": 69,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7412 C",
+    "c": 0,
+    "m": 42,
+    "y": 100,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 7413 C",
+    "c": 0,
+    "m": 53,
+    "y": 100,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 7414 C",
+    "c": 0,
+    "m": 46,
+    "y": 100,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 7415 C",
+    "c": 0,
+    "m": 18,
+    "y": 15,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7416 C",
+    "c": 0,
+    "m": 60,
+    "y": 60,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7417 C",
+    "c": 0,
+    "m": 75,
+    "y": 75,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7418 C",
+    "c": 0,
+    "m": 70,
+    "y": 60,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 7419 C",
+    "c": 0,
+    "m": 60,
+    "y": 45,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 7420 C",
+    "c": 0,
+    "m": 80,
+    "y": 42,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 7421 C",
+    "c": 0,
+    "m": 100,
+    "y": 30,
+    "k": 61
+  },
+  {
+    "pantone": "Pantone 7422 C",
+    "c": 0,
+    "m": 9,
+    "y": 5,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7423 C",
+    "c": 0,
+    "m": 55,
+    "y": 22,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7424 C",
+    "c": 0,
+    "m": 75,
+    "y": 30,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7425 C",
+    "c": 0,
+    "m": 90,
+    "y": 30,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 7426 C",
+    "c": 0,
+    "m": 100,
+    "y": 45,
+    "k": 18
+  },
+  {
+    "pantone": "Pantone 7427 C",
+    "c": 0,
+    "m": 100,
+    "y": 65,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 7428 C",
+    "c": 0,
+    "m": 80,
+    "y": 45,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 7429 C",
+    "c": 0,
+    "m": 18,
+    "y": 3,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7430 C",
+    "c": 2,
+    "m": 31,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7431 C",
+    "c": 0,
+    "m": 38,
+    "y": 2,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 7432 C",
+    "c": 0,
+    "m": 55,
+    "y": 3,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7433 C",
+    "c": 0,
+    "m": 75,
+    "y": 15,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 7434 C",
+    "c": 0,
+    "m": 80,
+    "y": 15,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 7435 C",
+    "c": 0,
+    "m": 100,
+    "y": 10,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 7436 C",
+    "c": 3,
+    "m": 8,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7437 C",
+    "c": 6,
+    "m": 20,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7438 C",
+    "c": 15,
+    "m": 35,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7439 C",
+    "c": 20,
+    "m": 35,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7440 C",
+    "c": 30,
+    "m": 40,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7441 C",
+    "c": 36,
+    "m": 50,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7442 C",
+    "c": 50,
+    "m": 70,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7443 C",
+    "c": 6,
+    "m": 5,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7444 C",
+    "c": 20,
+    "m": 17,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7445 C",
+    "c": 30,
+    "m": 20,
+    "y": 0,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 7446 C",
+    "c": 43,
+    "m": 38,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7447 C",
+    "c": 60,
+    "m": 58,
+    "y": 0,
+    "k": 19
+  },
+  {
+    "pantone": "Pantone 7448 C",
+    "c": 32,
+    "m": 42,
+    "y": 0,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 7449 C",
+    "c": 72,
+    "m": 100,
+    "y": 77,
+    "k": 46
+  },
+  {
+    "pantone": "Pantone 7450 C",
+    "c": 20,
+    "m": 10,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7451 C",
+    "c": 40,
+    "m": 21,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7452 C",
+    "c": 50,
+    "m": 32,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7453 C",
+    "c": 50,
+    "m": 26,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7454 C",
+    "c": 50,
+    "m": 24,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7455 C",
+    "c": 80,
+    "m": 53,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7456 C",
+    "c": 55,
+    "m": 35,
+    "y": 0,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 7457 C",
+    "c": 12,
+    "m": 0,
+    "y": 2,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7458 C",
+    "c": 40,
+    "m": 0,
+    "y": 5,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 7459 C",
+    "c": 57,
+    "m": 0,
+    "y": 6,
+    "k": 13
+  },
+  {
+    "pantone": "Pantone 7460 C",
+    "c": 100,
+    "m": 0,
+    "y": 0,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 7461 C",
+    "c": 78,
+    "m": 28,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7462 C",
+    "c": 100,
+    "m": 50,
+    "y": 0,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7463 C",
+    "c": 100,
+    "m": 43,
+    "y": 0,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone 7464 C",
+    "c": 25,
+    "m": 0,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7465 C",
+    "c": 50,
+    "m": 0,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7466 C",
+    "c": 70,
+    "m": 0,
+    "y": 23,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7467 C",
+    "c": 95,
+    "m": 0,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7468 C",
+    "c": 100,
+    "m": 10,
+    "y": 0,
+    "k": 28
+  },
+  {
+    "pantone": "Pantone 7469 C",
+    "c": 100,
+    "m": 20,
+    "y": 0,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 7470 C",
+    "c": 80,
+    "m": 15,
+    "y": 0,
+    "k": 45
+  },
+  {
+    "pantone": "Pantone 7471 C",
+    "c": 28,
+    "m": 0,
+    "y": 14,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7472 C",
+    "c": 52,
+    "m": 0,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7473 C",
+    "c": 70,
+    "m": 0,
+    "y": 38,
+    "k": 8
+  },
+  {
+    "pantone": "Pantone 7474 C",
+    "c": 90,
+    "m": 0,
+    "y": 28,
+    "k": 22
+  },
+  {
+    "pantone": "Pantone 7475 C",
+    "c": 50,
+    "m": 0,
+    "y": 25,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 7476 C",
+    "c": 100,
+    "m": 0,
+    "y": 43,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 7477 C",
+    "c": 80,
+    "m": 0,
+    "y": 10,
+    "k": 68
+  },
+  {
+    "pantone": "Pantone 7478 C",
+    "c": 18,
+    "m": 0,
+    "y": 14,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7479 C",
+    "c": 55,
+    "m": 0,
+    "y": 50,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7480 C",
+    "c": 60,
+    "m": 0,
+    "y": 50,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7481 C",
+    "c": 60,
+    "m": 0,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7482 C",
+    "c": 80,
+    "m": 0,
+    "y": 75,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7483 C",
+    "c": 85,
+    "m": 0,
+    "y": 100,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 7484 C",
+    "c": 100,
+    "m": 0,
+    "y": 85,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 7485 C",
+    "c": 6,
+    "m": 0,
+    "y": 10,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7486 C",
+    "c": 20,
+    "m": 0,
+    "y": 30,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7487 C",
+    "c": 30,
+    "m": 0,
+    "y": 45,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7488 C",
+    "c": 43,
+    "m": 0,
+    "y": 60,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7489 C",
+    "c": 60,
+    "m": 0,
+    "y": 80,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 7490 C",
+    "c": 45,
+    "m": 0,
+    "y": 80,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 7491 C",
+    "c": 32,
+    "m": 0,
+    "y": 100,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 7492 C",
+    "c": 12,
+    "m": 0,
+    "y": 50,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 7493 C",
+    "c": 14,
+    "m": 0,
+    "y": 36,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7494 C",
+    "c": 25,
+    "m": 0,
+    "y": 40,
+    "k": 15
+  },
+  {
+    "pantone": "Pantone 7495 C",
+    "c": 25,
+    "m": 0,
+    "y": 80,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 7496 C",
+    "c": 40,
+    "m": 0,
+    "y": 100,
+    "k": 38
+  },
+  {
+    "pantone": "Pantone 7497 C",
+    "c": 40,
+    "m": 30,
+    "y": 70,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 7498 C",
+    "c": 25,
+    "m": 0,
+    "y": 100,
+    "k": 80
+  },
+  {
+    "pantone": "Pantone 7499 C",
+    "c": 0,
+    "m": 2,
+    "y": 15,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7500 C",
+    "c": 0,
+    "m": 2,
+    "y": 15,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 7501 C",
+    "c": 0,
+    "m": 4,
+    "y": 20,
+    "k": 6
+  },
+  {
+    "pantone": "Pantone 7502 C",
+    "c": 0,
+    "m": 8,
+    "y": 35,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7503 C",
+    "c": 0,
+    "m": 12,
+    "y": 35,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 7504 C",
+    "c": 0,
+    "m": 25,
+    "y": 45,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 7505 C",
+    "c": 0,
+    "m": 30,
+    "y": 70,
+    "k": 55
+  },
+  {
+    "pantone": "Pantone 7506 C",
+    "c": 0,
+    "m": 5,
+    "y": 15,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7507 C",
+    "c": 0,
+    "m": 10,
+    "y": 30,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7508 C",
+    "c": 0,
+    "m": 15,
+    "y": 40,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone 7509 C",
+    "c": 0,
+    "m": 20,
+    "y": 50,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 7510 C",
+    "c": 0,
+    "m": 30,
+    "y": 72,
+    "k": 11
+  },
+  {
+    "pantone": "Pantone 7511 C",
+    "c": 0,
+    "m": 45,
+    "y": 100,
+    "k": 25
+  },
+  {
+    "pantone": "Pantone 7512 C",
+    "c": 0,
+    "m": 46,
+    "y": 100,
+    "k": 33
+  },
+  {
+    "pantone": "Pantone 7513 C",
+    "c": 0,
+    "m": 18,
+    "y": 28,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone 7514 C",
+    "c": 0,
+    "m": 24,
+    "y": 38,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 7515 C",
+    "c": 0,
+    "m": 35,
+    "y": 50,
+    "k": 12
+  },
+  {
+    "pantone": "Pantone 7516 C",
+    "c": 0,
+    "m": 52,
+    "y": 100,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 7517 C",
+    "c": 0,
+    "m": 60,
+    "y": 100,
+    "k": 44
+  },
+  {
+    "pantone": "Pantone 7518 C",
+    "c": 0,
+    "m": 40,
+    "y": 55,
+    "k": 60
+  },
+  {
+    "pantone": "Pantone 7519 C",
+    "c": 50,
+    "m": 60,
+    "y": 100,
+    "k": 48
+  },
+  {
+    "pantone": "Pantone 7520 C",
+    "c": 0,
+    "m": 16,
+    "y": 19,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 7521 C",
+    "c": 0,
+    "m": 25,
+    "y": 20,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7522 C",
+    "c": 0,
+    "m": 40,
+    "y": 30,
+    "k": 16
+  },
+  {
+    "pantone": "Pantone 7523 C",
+    "c": 0,
+    "m": 40,
+    "y": 35,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 7524 C",
+    "c": 0,
+    "m": 55,
+    "y": 60,
+    "k": 27
+  },
+  {
+    "pantone": "Pantone 7525 C",
+    "c": 0,
+    "m": 45,
+    "y": 50,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 7526 C",
+    "c": 0,
+    "m": 65,
+    "y": 100,
+    "k": 35
+  },
+  {
+    "pantone": "Pantone 7527 C",
+    "c": 0,
+    "m": 2,
+    "y": 6,
+    "k": 7
+  },
+  {
+    "pantone": "Pantone 7528 C",
+    "c": 0,
+    "m": 3,
+    "y": 10,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7529 C",
+    "c": 0,
+    "m": 4,
+    "y": 12,
+    "k": 17
+  },
+  {
+    "pantone": "Pantone 7530 C",
+    "c": 0,
+    "m": 8,
+    "y": 21,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 7531 C",
+    "c": 0,
+    "m": 10,
+    "y": 27,
+    "k": 50
+  },
+  {
+    "pantone": "Pantone 7532 C",
+    "c": 0,
+    "m": 17,
+    "y": 50,
+    "k": 65
+  },
+  {
+    "pantone": "Pantone 7533 C",
+    "c": 0,
+    "m": 22,
+    "y": 85,
+    "k": 85
+  },
+  {
+    "pantone": "Pantone 7534 C",
+    "c": 0,
+    "m": 2,
+    "y": 8,
+    "k": 10
+  },
+  {
+    "pantone": "Pantone 7535 C",
+    "c": 0,
+    "m": 3,
+    "y": 15,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 7536 C",
+    "c": 0,
+    "m": 4,
+    "y": 22,
+    "k": 32
+  },
+  {
+    "pantone": "Pantone 7537 C",
+    "c": 3,
+    "m": 0,
+    "y": 10,
+    "k": 20
+  },
+  {
+    "pantone": "Pantone 7538 C",
+    "c": 9,
+    "m": 0,
+    "y": 13,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 7539 C",
+    "c": 2,
+    "m": 0,
+    "y": 9,
+    "k": 36
+  },
+  {
+    "pantone": "Pantone 7540 C",
+    "c": 0,
+    "m": 0,
+    "y": 0,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 7541 C",
+    "c": 2,
+    "m": 0,
+    "y": 0,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 7542 C",
+    "c": 10,
+    "m": 0,
+    "y": 3,
+    "k": 16
+  },
+  {
+    "pantone": "Pantone 7543 C",
+    "c": 7,
+    "m": 0,
+    "y": 0,
+    "k": 30
+  },
+  {
+    "pantone": "Pantone 7544 C",
+    "c": 10,
+    "m": 1,
+    "y": 0,
+    "k": 40
+  },
+  {
+    "pantone": "Pantone 7545 C",
+    "c": 23,
+    "m": 2,
+    "y": 0,
+    "k": 63
+  },
+  {
+    "pantone": "Pantone 7546 C",
+    "c": 33,
+    "m": 4,
+    "y": 0,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone 7547 C",
+    "c": 35,
+    "m": 4,
+    "y": 0,
+    "k": 94
+  },
+  {
+    "pantone": "Pantone Black C",
+    "c": 0,
+    "m": 13,
+    "y": 49,
+    "k": 98
+  },
+  {
+    "pantone": "Pantone Yellow 2X C",
+    "c": 1,
+    "m": 16,
+    "y": 98,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 116 2X C",
+    "c": 0,
+    "m": 43,
+    "y": 98,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 130 2X C",
+    "c": 0,
+    "m": 58,
+    "y": 97,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 165 2X C",
+    "c": 0,
+    "m": 97,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Warm Red 2X C",
+    "c": 0,
+    "m": 99,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 1788 2X C",
+    "c": 1,
+    "m": 100,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 185 2X C",
+    "c": 1,
+    "m": 100,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 485 2X C",
+    "c": 1,
+    "m": 100,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Rubine Red 2X C",
+    "c": 0,
+    "m": 100,
+    "y": 15,
+    "k": 4
+  },
+  {
+    "pantone": "Pantone Rhodamine Red 2X C",
+    "c": 3,
+    "m": 89,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 239 2X C",
+    "c": 9,
+    "m": 100,
+    "y": 37,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Purple 2X C",
+    "c": 30,
+    "m": 100,
+    "y": 9,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 2592 2X C",
+    "c": 81,
+    "m": 98,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Violet 2X C",
+    "c": 100,
+    "m": 100,
+    "y": 1,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Reflex Blue 2X C",
+    "c": 99,
+    "m": 99,
+    "y": 1,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone Process Blue 2X C",
+    "c": 100,
+    "m": 41,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 299 2X C",
+    "c": 99,
+    "m": 25,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 306 2X C",
+    "c": 95,
+    "m": 1,
+    "y": 5,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 320 2X C",
+    "c": 100,
+    "m": 20,
+    "y": 25,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 327 2X C",
+    "c": 99,
+    "m": 32,
+    "y": 96,
+    "k": 3
+  },
+  {
+    "pantone": "Pantone Green 2X C",
+    "c": 100,
+    "m": 1,
+    "y": 89,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 354 2X C",
+    "c": 98,
+    "m": 0,
+    "y": 98,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 368 2X C",
+    "c": 89,
+    "m": 1,
+    "y": 99,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 375 2X C",
+    "c": 78,
+    "m": 0,
+    "y": 100,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 382 2X C",
+    "c": 39,
+    "m": 1,
+    "y": 99,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 471 2X C",
+    "c": 20,
+    "m": 88,
+    "y": 98,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 464 2X C",
+    "c": 47,
+    "m": 80,
+    "y": 97,
+    "k": 5
+  },
+  {
+    "pantone": "Pantone 433 2X C",
+    "c": 84,
+    "m": 73,
+    "y": 69,
+    "k": 70
+  },
+  {
+    "pantone": "Pantone Black 2 C",
+    "c": 0,
+    "m": 0,
+    "y": 30,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone Black 3 C",
+    "c": 69,
+    "m": 0,
+    "y": 43,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone Black 4 C",
+    "c": 0,
+    "m": 27,
+    "y": 91,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone Black 5 C",
+    "c": 0,
+    "m": 38,
+    "y": 0,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone Black 6 C",
+    "c": 100,
+    "m": 38,
+    "y": 0,
+    "k": 100
+  },
+  {
+    "pantone": "Pantone Black 7 C",
+    "c": 0,
+    "m": 0,
+    "y": 11,
+    "k": 87
+  },
+  {
+    "pantone": "Pantone Black 2 2X C",
+    "c": 83,
+    "m": 71,
+    "y": 70,
+    "k": 70
+  },
+  {
+    "pantone": "Pantone Black 3 2X C",
+    "c": 83,
+    "m": 73,
+    "y": 69,
+    "k": 68
+  },
+  {
+    "pantone": "Pantone Black 4 2X C",
+    "c": 81,
+    "m": 70,
+    "y": 70,
+    "k": 71
+  },
+  {
+    "pantone": "Pantone Black 5 2X C",
+    "c": 82,
+    "m": 77,
+    "y": 72,
+    "k": 67
+  },
+  {
+    "pantone": "Pantone Black 6 2X C",
+    "c": 84,
+    "m": 72,
+    "y": 69,
+    "k": 72
+  },
+  {
+    "pantone": "Pantone Black 7 2X C",
+    "c": 76,
+    "m": 68,
+    "y": 69,
+    "k": 39
+  },
+  {
+    "pantone": "Pantone 801 C",
+    "c": 91,
+    "m": 0,
+    "y": 11,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 802 C",
+    "c": 58,
+    "m": 0,
+    "y": 98,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 803 C",
+    "c": 1,
+    "m": 9,
+    "y": 88,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 804 C",
+    "c": 0,
+    "m": 65,
+    "y": 92,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 805 C",
+    "c": 0,
+    "m": 87,
+    "y": 78,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 806 C",
+    "c": 2,
+    "m": 94,
+    "y": 41,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 807 C",
+    "c": 10,
+    "m": 96,
+    "y": 8,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 801 2X C",
+    "c": 99,
+    "m": 12,
+    "y": 4,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 802 2X C",
+    "c": 75,
+    "m": 0,
+    "y": 99,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 803 2X C",
+    "c": 0,
+    "m": 23,
+    "y": 97,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 804 2X C",
+    "c": 0,
+    "m": 79,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 805 2X C",
+    "c": 0,
+    "m": 94,
+    "y": 92,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 806 2X C",
+    "c": 1,
+    "m": 97,
+    "y": 52,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 807 2X C",
+    "c": 14,
+    "m": 99,
+    "y": 3,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 808 C",
+    "c": 85,
+    "m": 0,
+    "y": 52,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 809 C",
+    "c": 9,
+    "m": 3,
+    "y": 94,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 810 C",
+    "c": 0,
+    "m": 32,
+    "y": 94,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 811 C",
+    "c": 0,
+    "m": 82,
+    "y": 92,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 812 C",
+    "c": 0,
+    "m": 94,
+    "y": 55,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 813 C",
+    "c": 8,
+    "m": 95,
+    "y": 21,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 814 C",
+    "c": 75,
+    "m": 59,
+    "y": 0,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 808 2X C",
+    "c": 96,
+    "m": 0,
+    "y": 72,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 809 2X C",
+    "c": 10,
+    "m": 7,
+    "y": 97,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 810 2X C",
+    "c": 0,
+    "m": 42,
+    "y": 95,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 811 2X C",
+    "c": 0,
+    "m": 90,
+    "y": 96,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 812 2X C",
+    "c": 0,
+    "m": 97,
+    "y": 77,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 813 2X C",
+    "c": 7,
+    "m": 98,
+    "y": 20,
+    "k": 0
+  },
+  {
+    "pantone": "Pantone 814 2X C",
+    "c": 81,
+    "m": 72,
+    "y": 0,
+    "k": 0
+  }
+]

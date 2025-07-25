@@ -55,15 +55,15 @@ def generate_pdf():
     c = canvas.Canvas(buffer, pagesize=(836, 1097))  # 11.61 × 15.24 inch
     cell = 44
     gap_x = 12
-    gap_y = 24  # уменьшенный вертикальный отступ внутри группы
+    gap_y = 24  
     group_gap_x = 40
-    group_gap_y = 64  # увеличенный вертикальный отступ между группами
+    group_gap_y = 64  #
 
-    # Высота блока: заголовок + комментарий + сетка
+
     title_height = 30
     cmyk_height = 24 if pantone else 0
     comment_height = 24 if comment else 0
-    header_block = title_height + cmyk_height + comment_height + 40  # 40 — отступ после комментария
+    header_block = title_height + cmyk_height + comment_height + 40
     total_grid_height = 3 * (3 * cell + 2 * gap_y) + 2 * group_gap_y
     block_height = header_block + total_grid_height
     top_y = (1097 + block_height) // 2
@@ -85,9 +85,8 @@ def generate_pdf():
         c.drawCentredString(418, y, "Комментарий: " + comment)
         y -= comment_height
 
-    y -= 40  # отступ после комментария
+    y -= 40  
 
-    # Центрирование сетки по горизонтали
     total_grid_width = 3 * (3 * cell + 2 * gap_x) + 2 * group_gap_x
     start_x = (836 - total_grid_width) // 2
     start_y = y

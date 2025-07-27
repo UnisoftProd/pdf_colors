@@ -75,10 +75,10 @@ def generate_pdf():
         c.drawCentredString(418, y, f"{pantone} (Шаг: {deviation})")
         y -= title_height
         c.setFont("Roboto", 15)
-        c.drawCentredString(418, y, f"C:{cmyk['c']}   M:{cmyk['m']}   Y:{cmyk['y']}   K:{cmyk['k']}")
+        c.drawCentredString(418, y, f"C:{round(cmyk['c'])}   M:{round(cmyk['m'])}   Y:{round(cmyk['y'])}   K:{round(cmyk['k'])}")
         y -= cmyk_height
     else:
-        c.drawCentredString(418, y, f"CMYK {cmyk['c']},{cmyk['m']},{cmyk['y']},{cmyk['k']} (Шаг: {deviation})")
+        c.drawCentredString(418, y, f"CMYK {round(cmyk['c'])},{round(cmyk['m'])},{round(cmyk['y'])},{round(cmyk['k'])} (Шаг: {deviation})")
         y -= title_height
 
     if comment:
@@ -110,8 +110,8 @@ def generate_pdf():
                     c.setFont("Roboto", 8)
                     # line1 = f"C:{'+' if v['dc']>0 else ''}{v['dc']}   M:{'+' if v['dm']>0 else ''}{v['dm']}"
                     # line2 = f"Y:{'+' if v['dy']>0 else ''}{v['dy']}   K:{'+' if v['dk']>0 else ''}{v['dk']}"
-                    line1 = f"C:{v['c']}   M:{v['m']}"
-                    line2 = f"Y:{v['y']}   K:{v['k']}"
+                    line1 = f"C:{round(v['c'])}   M:{round(v['m'])}"
+                    line2 = f"Y:{round(v['y'])}   K:{round(v['k'])}"
                     c.drawCentredString(cx + cell/2, cy - 10, line1)
                     c.drawCentredString(cx + cell/2, cy - 20, line2)
     c.save()

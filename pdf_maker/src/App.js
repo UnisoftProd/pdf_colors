@@ -81,6 +81,45 @@ export default function App() {
             }}
           />
         )}
+        {mode === 'cmyk' && (
+          <>
+            <Box sx={{ display: 'flex', gap: 2, mb: 2, justifyContent: 'center', alignItems: 'center' }}>
+              <TextField
+                label="C"
+                type="number"
+                value={cmyk.c}
+                onChange={e => setCmyk({ ...cmyk, c: e.target.value })}
+                onBlur={e => setCmyk({ ...cmyk, c: String(Math.round(clamp(e.target.value))) })}
+                inputProps={{ min: 0, max: 100 }}
+              />
+              <TextField
+                label="M"
+                type="number"
+                value={cmyk.m}
+                onChange={e => setCmyk({ ...cmyk, m: e.target.value })}
+                onBlur={e => setCmyk({ ...cmyk, m: String(Math.round(clamp(e.target.value))) })}
+                inputProps={{ min: 0, max: 100 }}
+              />
+              <TextField
+                label="Y"
+                type="number"
+                value={cmyk.y}
+                onChange={e => setCmyk({ ...cmyk, y: e.target.value })}
+                onBlur={e => setCmyk({ ...cmyk, y: String(Math.round(clamp(e.target.value))) })}
+                inputProps={{ min: 0, max: 100 }}
+              />
+              <TextField
+                label="K"
+                type="number"
+                value={cmyk.k}
+                onChange={e => setCmyk({ ...cmyk, k: e.target.value })}
+                onBlur={e => setCmyk({ ...cmyk, k: String(Math.round(clamp(e.target.value))) })}
+                inputProps={{ min: 0, max: 100 }}
+              />
+              <Box sx={{ width: 40, height: 40, borderRadius: 2, border: '1px solid #ccc', ml: 2, background: `rgb(${cmykToRgb(Number(cmyk.c), Number(cmyk.m), Number(cmyk.y), Number(cmyk.k)).r},${cmykToRgb(Number(cmyk.c), Number(cmyk.m), Number(cmyk.y), Number(cmyk.k)).g},${cmykToRgb(Number(cmyk.c), Number(cmyk.m), Number(cmyk.y), Number(cmyk.k)).b})` }} />
+            </Box>
+          </>
+        )}
         {/* Поле для комментария теперь всегда отображается */}
         <Box sx={{ mb: 2 }}>
           <TextField

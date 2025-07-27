@@ -81,34 +81,17 @@ export default function App() {
             }}
           />
         )}
-        {mode === 'cmyk' && (
-          <>
-            <Box sx={{ display: 'flex', gap: 2, mb: 2 }}>
-              {['c', 'm', 'y', 'k'].map(key => (
-                <TextField
-                  key={key}
-                  label={key.toUpperCase()}
-                  type="number"
-                  value={cmyk[key]}
-                  onChange={e => setCmyk({ ...cmyk, [key]: e.target.value })}
-                  onBlur={e => setCmyk({ ...cmyk, [key]: String(clamp(Number(e.target.value))) })}
-                  inputProps={{ min: 0, max: 100 }}
-                  fullWidth
-                />
-              ))}
-            </Box>
-            <Box sx={{ mb: 2 }}>
-              <TextField
-                label="Комментарий (необязательно)"
-                value={comment}
-                onChange={e => setComment(e.target.value)}
-                fullWidth
-                multiline
-                minRows={2}
-              />
-            </Box>
-          </>
-        )}
+        {/* Поле для комментария теперь всегда отображается */}
+        <Box sx={{ mb: 2 }}>
+          <TextField
+            label="Комментарий (необязательно)"
+            value={comment}
+            onChange={e => setComment(e.target.value)}
+            fullWidth
+            multiline
+            minRows={2}
+          />
+        </Box>
         <Box sx={{ mb: 2 }}>
           <Typography gutterBottom>
             Отклонение по CMYK (1-10): {deviation}

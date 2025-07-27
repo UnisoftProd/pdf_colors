@@ -71,13 +71,14 @@ def generate_pdf():
     y = top_y
     c.setFont("Roboto", 22)
     if pantone:
-        c.drawCentredString(418, y, pantone)
+        # Добавляем диапазон в заголовок
+        c.drawCentredString(418, y, f"{pantone} (Шаг: {deviation})")
         y -= title_height
         c.setFont("Roboto", 15)
         c.drawCentredString(418, y, f"C:{cmyk['c']}   M:{cmyk['m']}   Y:{cmyk['y']}   K:{cmyk['k']}")
         y -= cmyk_height
     else:
-        c.drawCentredString(418, y, f"CMYK {cmyk['c']},{cmyk['m']},{cmyk['y']},{cmyk['k']}")
+        c.drawCentredString(418, y, f"CMYK {cmyk['c']},{cmyk['m']},{cmyk['y']},{cmyk['k']} (Шаг: {deviation})")
         y -= title_height
 
     if comment:
@@ -118,4 +119,4 @@ def generate_pdf():
     return send_file(buffer, as_attachment=True, download_name='cmyk_variants.pdf', mimetype='application/pdf')
 
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(host="0.0.0.0", port=5030)

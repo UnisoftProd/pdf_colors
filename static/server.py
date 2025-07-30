@@ -79,7 +79,7 @@ def generate_pdf():
         c.drawCentredString(418, y, f"C:{round(cmyk['c'])}   M:{round(cmyk['m'])}   Y:{round(cmyk['y'])}   K:{round(cmyk['k'])}")
         y -= cmyk_height
     else:
-        c.drawCentredString(418, y, f"CMYK {round(cmyk['c'])}, {round(cmyk['m'])}, {round(cmyk['y'])}, {round(cmyk['k'])} (Шаг: {deviation})")
+        c.drawCentredString(418, y, f"CMYK {round(cmyk['c'])},{round(cmyk['m'])},{round(cmyk['y'])},{round(cmyk['k'])} (Шаг: {deviation})")
         y -= title_height
 
     if comment:

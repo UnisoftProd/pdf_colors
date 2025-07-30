@@ -89,32 +89,64 @@ export default function App() {
                 type="number"
                 value={cmyk.c}
                 onChange={e => setCmyk({ ...cmyk, c: e.target.value })}
+                onKeyDown={e => {
+                  const allowedKeys = ['Backspace', 'Delete', 'Tab', 'Enter', 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'];
+                  const isNumber = /^\d$/.test(e.key);
+                  const isAllowedKey = allowedKeys.includes(e.key);
+                  if (!isNumber && !isAllowedKey) {
+                    e.preventDefault();
+                  }
+                }}
                 onBlur={e => setCmyk({ ...cmyk, c: String(Math.round(clamp(e.target.value))) })}
-                inputProps={{ min: 0, max: 100 }}
+                inputProps={{ min: 0, max: 100, step: 1 }}
               />
               <TextField
                 label="M"
                 type="number"
                 value={cmyk.m}
                 onChange={e => setCmyk({ ...cmyk, m: e.target.value })}
+                onKeyDown={e => {
+                  const allowedKeys = ['Backspace', 'Delete', 'Tab', 'Enter', 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'];
+                  const isNumber = /^\d$/.test(e.key);
+                  const isAllowedKey = allowedKeys.includes(e.key);
+                  if (!isNumber && !isAllowedKey) {
+                    e.preventDefault();
+                  }
+                }}
                 onBlur={e => setCmyk({ ...cmyk, m: String(Math.round(clamp(e.target.value))) })}
-                inputProps={{ min: 0, max: 100 }}
+                inputProps={{ min: 0, max: 100, step: 1 }}
               />
               <TextField
                 label="Y"
                 type="number"
                 value={cmyk.y}
                 onChange={e => setCmyk({ ...cmyk, y: e.target.value })}
+                onKeyDown={e => {
+                  const allowedKeys = ['Backspace', 'Delete', 'Tab', 'Enter', 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'];
+                  const isNumber = /^\d$/.test(e.key);
+                  const isAllowedKey = allowedKeys.includes(e.key);
+                  if (!isNumber && !isAllowedKey) {
+                    e.preventDefault();
+                  }
+                }}
                 onBlur={e => setCmyk({ ...cmyk, y: String(Math.round(clamp(e.target.value))) })}
-                inputProps={{ min: 0, max: 100 }}
+                inputProps={{ min: 0, max: 100, step: 1 }}
               />
               <TextField
                 label="K"
                 type="number"
                 value={cmyk.k}
                 onChange={e => setCmyk({ ...cmyk, k: e.target.value })}
+                onKeyDown={e => {
+                  const allowedKeys = ['Backspace', 'Delete', 'Tab', 'Enter', 'ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'];
+                  const isNumber = /^\d$/.test(e.key);
+                  const isAllowedKey = allowedKeys.includes(e.key);
+                  if (!isNumber && !isAllowedKey) {
+                    e.preventDefault();
+                  }
+                }}
                 onBlur={e => setCmyk({ ...cmyk, k: String(Math.round(clamp(e.target.value))) })}
-                inputProps={{ min: 0, max: 100 }}
+                inputProps={{ min: 0, max: 100, step: 1 }}
               />
               <Box sx={{ width: 40, height: 40, borderRadius: 2, border: '1px solid #ccc', ml: 2, background: `rgb(${cmykToRgb(Number(cmyk.c), Number(cmyk.m), Number(cmyk.y), Number(cmyk.k)).r},${cmykToRgb(Number(cmyk.c), Number(cmyk.m), Number(cmyk.y), Number(cmyk.k)).g},${cmykToRgb(Number(cmyk.c), Number(cmyk.m), Number(cmyk.y), Number(cmyk.k)).b})` }} />
             </Box>

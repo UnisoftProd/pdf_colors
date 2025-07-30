@@ -86,7 +86,7 @@ def generate_pdf():
         c.drawCentredString(418, y, "Комментарий: " + comment)
         y -= comment_height
 
-    y -= 40  
+        y -= 40
 
     total_grid_width = 3 * (3 * cell + 2 * gap_x) + 2 * group_gap_x
     start_x = (836 - total_grid_width) // 2

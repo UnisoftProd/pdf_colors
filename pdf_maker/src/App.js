@@ -48,6 +48,19 @@ export default function App() {
   const [comment, setComment] = useState('');
   const [pantone, setPantone] = useState('');
 
+  const handleModeChange = (newMode) => {
+    if (newMode === 'cmyk' && mode === 'pantone') {
+      // Округляем значения при переключении с Pantone на CMYK
+      setCmyk({
+        c: String(Math.round(clamp(cmyk.c))),
+        m: String(Math.round(clamp(cmyk.m))),
+        y: String(Math.round(clamp(cmyk.y))),
+        k: String(Math.round(clamp(cmyk.k)))
+      });
+    }
+    setMode(newMode);
+  };
+
   // Для генерации вариантов и экспорта преобразуем к числам
   const numericCmyk = {
     c: clamp(Number(cmyk.c)),
@@ -66,7 +79,7 @@ export default function App() {
         <RadioGroup
           row
           value={mode}
-          onChange={e => setMode(e.target.value)}
+          onChange={e => handleModeChange(e.target.value)}
           sx={{ justifyContent: 'center', mb: 2 }}
         >
           <FormControlLabel value="pantone" control={<Radio />} label="Pantone" />
@@ -182,4 +195,4 @@ export default function App() {
       </Paper>
     </Container>
   );
-} 
+}

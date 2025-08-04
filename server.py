@@ -46,77 +46,112 @@ def generate_pdf():
     data = request.json
     cmyk = data['cmyk']
     deviation = int(data['deviation'])
-    comment = data.get('comment', '')
+    raw_comment = data.get('comment', '')
     pantone = data.get('pantone', '')
 
-    variants = cmyk_variants(cmyk, deviation)
+    # 1. Подготовка комментария
+    comment_lines = []
+    if raw_comment:
+        temp_buffer = io.BytesIO()
+        temp_canvas = canvas.Canvas(temp_buffer)
+        temp_canvas.setFont("Roboto", 12)
+        max_width = 700
+        
+        for line in raw_comment.split('\n'):
+            words = line.split()
+            current_line = []
+            
+            for word in words:
+                test_line = ' '.join(current_line + [word])
+                if temp_canvas.stringWidth(test_line, "Roboto", 12) <= max_width:
+                    current_line.append(word)
+                else:
+                    if current_line:
+                        comment_lines.append(' '.join(current_line))
+                    current_line = [word]
+            
+            if current_line:
+                comment_lines.append(' '.join(current_line))
 
+    # 2. Создание PDF
     buffer = io.BytesIO()
-    c = canvas.Canvas(buffer, pagesize=(836, 1097))  # 11.61 × 15.24 inch
-    cell = 44
+    c = canvas.Canvas(buffer, pagesize=(836, 1097))
+    
+    # 3. Параметры сетки
+    cell_size = 44
     gap_x = 12
-    gap_y = 24  
+    gap_y = 24
     group_gap_x = 40
-    group_gap_y = 64  #
-
-
-    title_height = 30
-    cmyk_height = 24 if pantone else 0
-    comment_height = 24 if comment else 0
-    comment_spacing = 40 if comment else 0
-    header_block = title_height + cmyk_height + comment_height + comment_spacing
-    total_grid_height = 3 * (3 * cell + 2 * gap_y) + 2 * group_gap_y
-    block_height = header_block + total_grid_height
-    top_y = (1097 + block_height) // 2
-
-    y = top_y
+    group_gap_y = 64
+    
+    # 4. Расчет высот блоков
+    title_block_height = 30 + (24 if pantone else 0)
+    comment_block_height = len(comment_lines) * 15 + (90 if comment_lines else 0)  # Увеличенные отступы
+    grid_block_height = 3 * (3 * cell_size + 2 * gap_y) + 2 * group_gap_y
+    
+    # 5. Точное центрирование
+    total_content_height = title_block_height + comment_block_height + grid_block_height
+    vertical_offset = (1097 - total_content_height) / 2
+    current_y = 1097 - vertical_offset  # Начинаем с верхней границы контента
+    
+    # 6. Заголовок
     c.setFont("Roboto", 22)
+    current_y -= 30
     if pantone:
-        # Добавляем диапазон в заголовок
-        c.drawCentredString(418, y, f"{pantone} (Шаг: {deviation})")
-        y -= title_height
+        c.drawCentredString(418, current_y, f"{pantone} (Шаг: {deviation})")
+        current_y -= 24
         c.setFont("Roboto", 15)
-        c.drawCentredString(418, y, f"C:{round(cmyk['c'])}   M:{round(cmyk['m'])}   Y:{round(cmyk['y'])}   K:{round(cmyk['k'])}")
-        y -= cmyk_height
+        c.drawCentredString(418, current_y, f"C:{round(cmyk['c'])} M:{round(cmyk['m'])} Y:{round(cmyk['y'])} K:{round(cmyk['k'])}")
     else:
-        c.drawCentredString(418, y, f"CMYK {round(cmyk['c'])}, {round(cmyk['m'])}, {round(cmyk['y'])}, {round(cmyk['k'])} (Шаг: {deviation})")
-        y -= title_height
+        c.drawCentredString(418, current_y, f"CMYK {round(cmyk['c'])}, {round(cmyk['m'])}, {round(cmyk['y'])}, {round(cmyk['k'])} (Шаг: {deviation})")
 
-    if comment:
+    # 7. Комментарий с увеличенными отступами
+    if comment_lines:
+        current_y -= 45  # Увеличенный отступ перед комментарием (1.5x)
         c.setFont("Roboto", 12)
-        c.drawCentredString(418, y, "Комментарий: " + comment)
-        y -= comment_height
-        y -= 60
+        
+        # Первая строка с префиксом
+        c.drawCentredString(418, current_y, comment_lines[0])
+        current_y -= 15
+        
+        # Остальные строки
+        for line in comment_lines[1:]:
+            c.drawCentredString(418, current_y, line)
+            current_y -= 15
+        
+        current_y -= 45  # Увеличенный отступ после комментария (1.5x)
     else:
-        # Добавляем минимальный отступ между заголовком и сеткой цветов
-        y -= 60
+        current_y -= 90  # Больший отступ если нет комментария
 
-    total_grid_width = 3 * (3 * cell + 2 * gap_x) + 2 * group_gap_x
-    start_x = (836 - total_grid_width) // 2
-    start_y = y
+    # 8. Цветовая сетка
+    total_grid_width = 3 * (3 * cell_size + 2 * gap_x) + 2 * group_gap_x
+    start_x = (836 - total_grid_width) / 2
 
     for group_row in range(3):
         for group_col in range(3):
-            group_idx = group_row * 3 + group_col
-            group = variants[group_idx]
-            gx = start_x + group_col * (3 * cell + 2 * gap_x + group_gap_x)
-            gy = start_y - group_row * (3 * cell + 2 * gap_y + group_gap_y)
-            for i in range(3):
-                for j in range(3):
-                    idx = i * 3 + j
-                    v = group[idx]
-                    cx = gx + j * (cell + gap_x)
-                    cy = gy - i * (cell + gap_y)
-                    c.setFillColorCMYK(v['c']/100, v['m']/100, v['y']/100, v['k']/100)
-                    c.rect(cx, cy, cell, cell, fill=1, stroke=0)
+            group = cmyk_variants(cmyk, deviation)[group_row * 3 + group_col]
+            group_x = start_x + group_col * (3 * cell_size + 2 * gap_x + group_gap_x)
+            group_y = current_y - group_row * (3 * cell_size + 2 * gap_y + group_gap_y)
+            
+            for row in range(3):
+                for col in range(3):
+                    variant = group[row * 3 + col]
+                    x = group_x + col * (cell_size + gap_x)
+                    y = group_y - row * (cell_size + gap_y)
+                    
+                    c.setFillColorCMYK(
+                        variant['c']/100,
+                        variant['m']/100,
+                        variant['y']/100,
+                        variant['k']/100
+                    )
+                    c.rect(x, y, cell_size, cell_size, fill=1, stroke=0)
+                    
                     c.setFillColorCMYK(0, 0, 0, 1)
                     c.setFont("Roboto", 8)
-                    # line1 = f"C:{'+' if v['dc']>0 else ''}{v['dc']}   M:{'+' if v['dm']>0 else ''}{v['dm']}"
-                    # line2 = f"Y:{'+' if v['dy']>0 else ''}{v['dy']}   K:{'+' if v['dk']>0 else ''}{v['dk']}"
-                    line1 = f"C:{round(v['c'])}   M:{round(v['m'])}"
-                    line2 = f"Y:{round(v['y'])}   K:{round(v['k'])}"
-                    c.drawCentredString(cx + cell/2, cy - 10, line1)
-                    c.drawCentredString(cx + cell/2, cy - 20, line2)
+                    c.drawCentredString(x + cell_size/2, y - 10, f"C:{round(variant['c'])} M:{round(variant['m'])}")
+                    c.drawCentredString(x + cell_size/2, y - 20, f"Y:{round(variant['y'])} K:{round(variant['k'])}")
+
     c.save()
     buffer.seek(0)
     return send_file(buffer, as_attachment=True, download_name='cmyk_variants.pdf', mimetype='application/pdf')
